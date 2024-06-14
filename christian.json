@@ -1,0 +1,45 @@
+[
+  { "id": 1, "name": "AR] [HD] AGHAPY TV", "country": "CHRISTIAN" },
+  { "id": 2, "name": "[AR] [HD] CTV", "country": "CHRISTIAN" },
+  { "id": 3, "name": "[AR] [HD] QIYAMA CHANNEL", "country": "CHRISTIAN" },
+  { "id": 4, "name": "[AR] [HD] ME SAT HD", "country": "CHRISTIAN" },
+  { "id": 5, "name": "[AR] [HD] AL HAYAT CRISTIAN", "country": "CHRISTIAN" },
+  { "id": 6, "name": "[AR] [HD] AL MALAKOOT", "country": "CHRISTIAN" },
+  { "id": 7, "name": "[AR] [HD] ALKARMA TV ME", "country": "CHRISTIAN" },
+  { "id": 8, "name": "[AR] [HD] AL KARMA ME 1 HD", "country": "CHRISTIAN" },
+  { "id": 9, "name": "[AR] [HD] AL KARMA ME 2 HD", "country": "CHRISTIAN" },
+  {
+    "id": 10,
+    "name": "[AR] [HD] AL KARMA N. AMERICA 1 HD",
+    "country": "CHRISTIAN"
+  },
+  {
+    "id": 11,
+    "name": "[AR] [HD] AL KARMA N. AMERICA 2 HD",
+    "country": "CHRISTIAN"
+  },
+  { "id": 12, "name": "[AR] [HD] AL KARMA US HD", "country": "CHRISTIAN" },
+  {
+    "id": 13,
+    "name": "[AR] [HD] AL KARMA AUSTRALIA HD",
+    "country": "CHRISTIAN"
+  },
+  { "id": 14, "name": "[AR] [HD] AL KARMA PRAISE HD", "country": "CHRISTIAN" },
+  { "id": 15, "name": "[AR] [HD] AL HORREYA TV", "country": "CHRISTIAN" },
+  { "id": 16, "name": "[AR] [HD] AL FADY", "country": "CHRISTIAN" },
+  { "id": 17, "name": "[AR] [HD] MIRACLE TV", "country": "CHRISTIAN" },
+  { "id": 18, "name": "[AR] [HD] ABN SAT TV", "country": "CHRISTIAN" },
+  { "id": 19, "name": "[AR] [HD] SAT 7 ARABIC", "country": "CHRISTIAN" },
+  { "id": 20, "name": "[AR] [HD] SAT 7 KIDS", "country": "CHRISTIAN" },
+  { "id": 21, "name": "[AR] [HD] NOURSAT CHRISTIAN", "country": "CHRISTIAN" },
+  { "id": 22, "name": "[AR] [HD] LOGOS TV", "country": "CHRISTIAN" },
+  { "id": 23, "name": "[AR] [HD] NOURSAT AL CHABAB", "country": "CHRISTIAN" },
+  { "id": 24, "name": "[AR] [HD] KOOGI TV", "country": "CHRISTIAN" },
+  { "id": 25, "name": "[AR] [HD] NOUR EL KODDASS", "country": "CHRISTIAN" },
+  { "id": 26, "name": "[AR] [HD] NOUR EL MARIAM", "country": "CHRISTIAN" },
+  { "id": 27, "name": "[AR] [HD] NOUR EL SHARQ", "country": "CHRISTIAN" },
+  { "id": 28, "name": "[AR] [HD] AL HAYAT DZ", "country": "CHRISTIAN" },
+  { "id": 29, "name": "[AR] [HD] ASSYRIA TV", "country": "CHRISTIAN" },
+  { "id": 30, "name": "[AR] [HD] NOHADRA TV", "country": "CHRISTIAN" },
+  { "id": 31, "name": "[AR] [HD] AGN SAT", "country": "CHRISTIAN" }
+]

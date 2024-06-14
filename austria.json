@@ -1,0 +1,83 @@
+[
+  { "id": 1, "name": "AT: ORF 1 FHD", "country": "austria" },
+  { "id": 2, "name": "AT: ORF 1 HD", "country": "austria" },
+  { "id": 3, "name": "AT: ORF 1", "country": "austria" },
+  { "id": 4, "name": "AT: ORF 2 FHD", "country": "austria" },
+  { "id": 5, "name": "AT: ORF 2 HD", "country": "austria" },
+  { "id": 6, "name": "AT: ORF 2", "country": "austria" },
+  { "id": 7, "name": "AT: ORF III FHD", "country": "austria" },
+  { "id": 8, "name": "AT: ORF III HD", "country": "austria" },
+  { "id": 9, "name": "AT: ORF III", "country": "austria" },
+  { "id": 10, "name": "AT: ORF2B HD", "country": "austria" },
+  { "id": 11, "name": "AT: ORF2K HD", "country": "austria" },
+  { "id": 12, "name": "AT: ORF2N HD", "country": "austria" },
+  { "id": 13, "name": "AT: ORF2S HD", "country": "austria" },
+  { "id": 14, "name": "AT: ORF2ST HD", "country": "austria" },
+  { "id": 15, "name": "AT: ORF2T HD", "country": "austria" },
+  { "id": 16, "name": "AT: ORF2V HD", "country": "austria" },
+  { "id": 17, "name": "AT: ORF2W HD", "country": "austria" },
+  { "id": 18, "name": "AT: ORF2O HD", "country": "austria" },
+  { "id": 19, "name": "AT: ATV FHD", "country": "austria" },
+  { "id": 20, "name": "AT: ATV HD", "country": "austria" },
+  { "id": 21, "name": "AT: ATV 2 HD", "country": "austria" },
+  { "id": 22, "name": "AT: DMAX AUSTRIA", "country": "austria" },
+  { "id": 23, "name": "AT: HOPE TV HD", "country": "austria" },
+  { "id": 24, "name": "AT: KRONE TV HD", "country": "austria" },
+  { "id": 25, "name": "AT: KURIER TV", "country": "austria" },
+  { "id": 26, "name": "AT: LAOLA 1", "country": "austria" },
+  { "id": 27, "name": "AT: LT1 OOE", "country": "austria" },
+  { "id": 28, "name": "AT: MOTORVISION", "country": "austria" },
+  { "id": 29, "name": "AT: N24 DOKU AUSTRIA HD", "country": "austria" },
+  { "id": 30, "name": "AT: NTV AUSTRIA HD", "country": "austria" },
+  { "id": 31, "name": "AT: OE24 TV HD", "country": "austria" },
+  { "id": 32, "name": "AT: OE24 TV", "country": "austria" },
+  { "id": 33, "name": "AT: PULS 4 AUSTRIA FHD", "country": "austria" },
+  { "id": 34, "name": "AT: PULS 4 AUSTRIA HD", "country": "austria" },
+  { "id": 35, "name": "AT: PULS 24 FHD", "country": "austria" },
+  { "id": 36, "name": "AT: PULS 24 HD", "country": "austria" },
+  { "id": 37, "name": "AT: R9 ÖSTERREICH FHD", "country": "austria" },
+  { "id": 38, "name": "AT: R9 ÖSTERREICH HD", "country": "austria" },
+  { "id": 39, "name": "AT: RTL AUSTRIA HD", "country": "austria" },
+  { "id": 40, "name": "AT: RTL 2 AUSTRIA HD", "country": "austria" },
+  { "id": 41, "name": "AT: SCHAU TV HD", "country": "austria" },
+  { "id": 42, "name": "AT: SERVUS TV HD ÖSTERREICH", "country": "austria" },
+  { "id": 43, "name": "AT: SIXX AUSTRIA", "country": "austria" },
+  { "id": 44, "name": "AT: TLC AUSTRIA", "country": "austria" },
+  { "id": 45, "name": "AT: TV1 OOE", "country": "austria" },
+  { "id": 46, "name": "AT: VOX AUSTRIA HD", "country": "austria" },
+  { "id": 47, "name": "AT: ORF SPORT+ FHD", "country": "austria" },
+  { "id": 48, "name": "AT: ORF SPORT+ HD", "country": "austria" },
+  { "id": 49, "name": "AT: DAZN FAST FHD", "country": "austria" },
+  { "id": 50, "name": "AT: DAZN RISE FHD", "country": "austria" },
+  { "id": 51, "name": "AT: SKY SPORT AUSTRIA 1 HD", "country": "austria" },
+  {
+    "id": 52,
+    "name": "AT: SKY SPORT AUSTRIA 2 HD (Only Live Event)",
+    "country": "austria"
+  },
+  {
+    "id": 53,
+    "name": "AT: SKY SPORT AUSTRIA 3 HD (Only Live Event)",
+    "country": "austria"
+  },
+  {
+    "id": 54,
+    "name": "AT: SKY SPORT AUSTRIA 4 HD (Only Live Event)",
+    "country": "austria"
+  },
+  {
+    "id": 55,
+    "name": "AT: SKY SPORT AUSTRIA 5 HD (Only Live Event)",
+    "country": "austria"
+  },
+  {
+    "id": 56,
+    "name": "AT: SKY SPORT AUSTRIA 6 HD (Only Live Event)",
+    "country": "austria"
+  },
+  {
+    "id": 57,
+    "name": "AT: SKY SPORT AUSTRIA 7 HD (Only Live Event)",
+    "country": "austria"
+  }
+]

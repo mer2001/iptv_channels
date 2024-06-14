@@ -1,0 +1,1230 @@
+[
+  { "id": 1, "name": "DE: DAS ERSTE HD", "country": "GERMANY" },
+  { "id": 2, "name": "DE: DAS ERSTE FHD", "country": "GERMANY" },
+  { "id": 3, "name": "DE: ZDF HD", "country": "GERMANY" },
+  { "id": 4, "name": "DE: ZDF FHD", "country": "GERMANY" },
+  { "id": 5, "name": "DE: PRO 7 HD", "country": "GERMANY" },
+  { "id": 6, "name": "DE: PRO 7 FHD", "country": "GERMANY" },
+  { "id": 7, "name": "DE: SAT 1 HD", "country": "GERMANY" },
+  { "id": 8, "name": "DE: SAT 1 FHD", "country": "GERMANY" },
+  { "id": 9, "name": "DE: RTL HD", "country": "GERMANY" },
+  { "id": 10, "name": "DE: RTL FHD", "country": "GERMANY" },
+  { "id": 11, "name": "DE: RTL 2 HD", "country": "GERMANY" },
+  { "id": 12, "name": "DE: RTL 2 FHD", "country": "GERMANY" },
+  { "id": 13, "name": "DE: VOX HD", "country": "GERMANY" },
+  { "id": 14, "name": "DE: VOX FHD", "country": "GERMANY" },
+  { "id": 15, "name": "DE: VOXUP", "country": "GERMANY" },
+  { "id": 16, "name": "DE: KABEL EINS HD", "country": "GERMANY" },
+  { "id": 17, "name": "DE: KABEL EINS FHD", "country": "GERMANY" },
+  { "id": 18, "name": "DE: SIXX HD", "country": "GERMANY" },
+  { "id": 19, "name": "DE: SIXX FHD", "country": "GERMANY" },
+  { "id": 20, "name": "DE: TELE 5", "country": "GERMANY" },
+  { "id": 21, "name": "DE: PRO 7 MAXX HD", "country": "GERMANY" },
+  { "id": 22, "name": "DE: PRO 7 MAXX FHD", "country": "GERMANY" },
+  { "id": 23, "name": "DE: PRO 7 FUN", "country": "GERMANY" },
+  { "id": 24, "name": "DE: NITRO HD", "country": "GERMANY" },
+  { "id": 25, "name": "DE: NITRO FHD", "country": "GERMANY" },
+  { "id": 26, "name": "DE: ARTE HD", "country": "GERMANY" },
+  { "id": 27, "name": "DE: ANIXE SERIE", "country": "GERMANY" },
+  { "id": 28, "name": "DE: ANIXE+", "country": "GERMANY" },
+  { "id": 29, "name": "DE: ONE HD", "country": "GERMANY" },
+  { "id": 30, "name": "DE: RTL UP", "country": "GERMANY" },
+  { "id": 31, "name": "DE: 3SAT HD", "country": "GERMANY" },
+  { "id": 32, "name": "DE: SONNENKLAR TV", "country": "GERMANY" },
+  { "id": 33, "name": "DE: SERVUS TV DEUTSCHLAND", "country": "GERMANY" },
+  { "id": 34, "name": "DE: HAMBURG 1 HD", "country": "GERMANY" },
+  { "id": 35, "name": "DE: MUNCHEN.TV FHD", "country": "GERMANY" },
+  { "id": 36, "name": "DE: RBB BERLIN", "country": "GERMANY" },
+  { "id": 37, "name": "DE: HR – FERNSEHEN", "country": "GERMANY" },
+  { "id": 38, "name": "DE: MDR", "country": "GERMANY" },
+  { "id": 39, "name": "DE: NDR", "country": "GERMANY" },
+  { "id": 40, "name": "DE: SWR BW", "country": "GERMANY" },
+  { "id": 41, "name": "DE: SWR RP", "country": "GERMANY" },
+  { "id": 42, "name": "DE: WDR HD", "country": "GERMANY" },
+  { "id": 43, "name": "DE: SR FERNSEHEN HD", "country": "GERMANY" },
+  { "id": 44, "name": "DE: BR FERNSEHEN", "country": "GERMANY" },
+  { "id": 45, "name": "DE: BIBEL TV", "country": "GERMANY" },
+  { "id": 46, "name": "DE: BIBEL TV IMPULS", "country": "GERMANY" },
+  { "id": 47, "name": "DE: —– VIP GERMANY —–", "country": "GERMANY" },
+  { "id": 48, "name": "DE: VIP DAS ERSTE HD", "country": "GERMANY" },
+  { "id": 49, "name": "DE: VIP ZDF HD", "country": "GERMANY" },
+  { "id": 50, "name": "DE: VIP PRO 7 HD", "country": "GERMANY" },
+  { "id": 51, "name": "DE: VIP SAT 1 HD", "country": "GERMANY" },
+  { "id": 52, "name": "DE: VIP RTL HD", "country": "GERMANY" },
+  { "id": 53, "name": "DE: VIP RTL 2 HD", "country": "GERMANY" },
+  { "id": 54, "name": "DE: VIP VOX HD", "country": "GERMANY" },
+  { "id": 55, "name": "DE: VIP VOXUP", "country": "GERMANY" },
+  { "id": 56, "name": "DE: VIP KABEL EINS HD", "country": "GERMANY" },
+  { "id": 57, "name": "DE: VIP SIXX HD", "country": "GERMANY" },
+  { "id": 58, "name": "DE: VIP TELE 5", "country": "GERMANY" },
+  { "id": 59, "name": "DE: VIP PRO 7 MAXX HD", "country": "GERMANY" },
+  { "id": 60, "name": "DE: VIP PRO 7 FUN", "country": "GERMANY" },
+  { "id": 61, "name": "DE: VIP NITRO HD", "country": "GERMANY" },
+  { "id": 62, "name": "DE: VIP ARTE HD", "country": "GERMANY" },
+  { "id": 63, "name": "DE: VIP ANIXE+", "country": "GERMANY" },
+  { "id": 64, "name": "DE: VIP RTL UP", "country": "GERMANY" },
+  { "id": 65, "name": "DE: VIP 3SAT HD", "country": "GERMANY" },
+  { "id": 66, "name": "DE: VIP HR – FERNSEHEN", "country": "GERMANY" },
+  { "id": 67, "name": "DE: VIP MDR", "country": "GERMANY" },
+  { "id": 68, "name": "DE: VIP NDR", "country": "GERMANY" },
+  { "id": 69, "name": "DE: VIP WDR HD", "country": "GERMANY" },
+  {
+    "id": 70,
+    "name": "DE: —– VIP NEWS / INFORMATION —–",
+    "country": "GERMANY"
+  },
+  { "id": 71, "name": "DE: VIP ARD ALPHA HD", "country": "GERMANY" },
+  { "id": 72, "name": "DE: VIP NTV FHD", "country": "GERMANY" },
+  { "id": 73, "name": "DE: VIP TAGESSCHAU24", "country": "GERMANY" },
+  { "id": 74, "name": "DE: VIP WELT HD", "country": "GERMANY" },
+  { "id": 75, "name": "DE: —– VIP DOKU —–", "country": "GERMANY" },
+  { "id": 76, "name": "DE: VIP DMAX", "country": "GERMANY" },
+  { "id": 77, "name": "DE: VIP SKY NATURE", "country": "GERMANY" },
+  { "id": 78, "name": "DE: VIP SKY DOCUMENTARIES", "country": "GERMANY" },
+  { "id": 79, "name": "DE: VIP NAT GEO WILD HD", "country": "GERMANY" },
+  { "id": 80, "name": "DE: VIP ANIMAL PLANET", "country": "GERMANY" },
+  { "id": 81, "name": "DE: VIP NATIONAL GEOGRAPHIC HD", "country": "GERMANY" },
+  { "id": 82, "name": "DE: VIP DISCOVERY CHANNEL HD", "country": "GERMANY" },
+  { "id": 83, "name": "DE: VIP HISTORY HD", "country": "GERMANY" },
+  { "id": 84, "name": "DE: VIP ZDF INFO", "country": "GERMANY" },
+  { "id": 85, "name": "DE: VIP ZDF NEO HD", "country": "GERMANY" },
+  { "id": 86, "name": "DE: VIP TLC", "country": "GERMANY" },
+  { "id": 87, "name": "DE: VIP KABEL EINS DOKU HD", "country": "GERMANY" },
+  { "id": 88, "name": "DE: VIP SPIEGEL GESCHICHTE", "country": "GERMANY" },
+  { "id": 89, "name": "DE: VIP GEO TV", "country": "GERMANY" },
+  { "id": 90, "name": "DE: VIP RTL LIVING", "country": "GERMANY" },
+  { "id": 91, "name": "DE: VIP HGTV", "country": "GERMANY" },
+  { "id": 92, "name": "DE: VIP BON GUSTO", "country": "GERMANY" },
+  { "id": 93, "name": "DE: —– VIP KINDER —–", "country": "GERMANY" },
+  { "id": 94, "name": "DE: VIP SUPER RTL – TOGGO HD", "country": "GERMANY" },
+  { "id": 95, "name": "DE: VIP TOGGO PLUS", "country": "GERMANY" },
+  { "id": 96, "name": "DE: VIP FIX UND FOXI", "country": "GERMANY" },
+  { "id": 97, "name": "DE: VIP KIKA", "country": "GERMANY" },
+  { "id": 98, "name": "DE: VIP NICK JR", "country": "GERMANY" },
+  { "id": 99, "name": "DE: VIP DISNEY CHANNEL", "country": "GERMANY" },
+  { "id": 100, "name": "DE: VIP CARTOON NETWORK", "country": "GERMANY" },
+  { "id": 101, "name": "DE: VIP NICKTOONS", "country": "GERMANY" },
+  { "id": 102, "name": "DE: —– VIP MUSIK —–", "country": "GERMANY" },
+  { "id": 103, "name": "DE: VIP MTV", "country": "GERMANY" },
+  { "id": 104, "name": "DE: —– VIP KINO / SERIEN —–", "country": "GERMANY" },
+  {
+    "id": 105,
+    "name": "DE: VIP SKY CINEMA PREMIEREN HD",
+    "country": "GERMANY"
+  },
+  {
+    "id": 106,
+    "name": "DE: VIP SKY CINEMA PREMIEREN +24",
+    "country": "GERMANY"
+  },
+  { "id": 107, "name": "DE: VIP SKY CINEMA BEST OF HD", "country": "GERMANY" },
+  { "id": 108, "name": "DE: VIP SKY CINEMA ACTION HD", "country": "GERMANY" },
+  { "id": 109, "name": "DE: VIP SKY CINEMA FAMILY", "country": "GERMANY" },
+  { "id": 110, "name": "DE: VIP SKY CINEMA SPECIAL HD", "country": "GERMANY" },
+  { "id": 111, "name": "DE: VIP SKY CINEMA THRILLER HD", "country": "GERMANY" },
+  { "id": 112, "name": "DE: VIP SKY CINEMA FUN", "country": "GERMANY" },
+  { "id": 113, "name": "DE: VIP SKY CINEMA CLASSICS", "country": "GERMANY" },
+  { "id": 114, "name": "DE: VIP SKY CINEMA ATLANTIC HD", "country": "GERMANY" },
+  { "id": 115, "name": "DE: VIP SKY ONE FHD", "country": "GERMANY" },
+  { "id": 116, "name": "DE: VIP SKY REPLAY FHD", "country": "GERMANY" },
+  { "id": 117, "name": "DE: VIP SKY CRIME FHD", "country": "GERMANY" },
+  { "id": 118, "name": "DE: VIP SKY KRIMI FHD", "country": "GERMANY" },
+  { "id": 119, "name": "DE: VIP SKY SYFY HD", "country": "GERMANY" },
+  { "id": 120, "name": "DE: VIP 13TH STREET HD", "country": "GERMANY" },
+  { "id": 121, "name": "DE: VIP CRIME+ INVESTIGATION", "country": "GERMANY" },
+  { "id": 122, "name": "DE: VIP COMEDY CENTRAL", "country": "GERMANY" },
+  { "id": 123, "name": "DE: VIP HEIMATKANAL", "country": "GERMANY" },
+  { "id": 124, "name": "DE: VIP SAT 1 EMOTIONS", "country": "GERMANY" },
+  { "id": 125, "name": "DE: VIP SAT 1 GOLD HD", "country": "GERMANY" },
+  { "id": 126, "name": "DE: VIP RTL CRIME FHD", "country": "GERMANY" },
+  { "id": 127, "name": "DE: VIP RTL PASSION", "country": "GERMANY" },
+  { "id": 128, "name": "DE: VIP KINOWELT", "country": "GERMANY" },
+  { "id": 129, "name": "DE: VIP ROMANCE TV", "country": "GERMANY" },
+  { "id": 130, "name": "DE: VIP WARNER TV COMEDY FHD", "country": "GERMANY" },
+  { "id": 131, "name": "DE: VIP WARNER TV FILM FHD", "country": "GERMANY" },
+  { "id": 132, "name": "DE: VIP WARNER TV SERIE FHD", "country": "GERMANY" },
+  { "id": 133, "name": "DE: VIP UNIVERSAL TV", "country": "GERMANY" },
+  { "id": 134, "name": "DE: VIP SONY CHANNEL", "country": "GERMANY" },
+  { "id": 135, "name": "DE: VIP SONY AXN", "country": "GERMANY" },
+  { "id": 136, "name": "DE: —– HEVC / 4K —–", "country": "GERMANY" },
+  { "id": 137, "name": "DE: DAS ERSTE HEVC", "country": "GERMANY" },
+  { "id": 138, "name": "DE: ZDF HEVC", "country": "GERMANY" },
+  { "id": 139, "name": "DE: PRO 7 HEVC", "country": "GERMANY" },
+  { "id": 140, "name": "DE: PRO 7 – SAT 1 UHD", "country": "GERMANY" },
+  { "id": 141, "name": "DE: SAT 1 HEVC", "country": "GERMANY" },
+  { "id": 142, "name": "DE: RTL HEVC", "country": "GERMANY" },
+  { "id": 143, "name": "DE: RTL UHD", "country": "GERMANY" },
+  { "id": 144, "name": "DE: RTL 2 HEVC", "country": "GERMANY" },
+  { "id": 145, "name": "DE: VOX HEVC", "country": "GERMANY" },
+  { "id": 146, "name": "DE: SIXX HEVC", "country": "GERMANY" },
+  { "id": 147, "name": "DE: PRO 7 MAXX HEVC", "country": "GERMANY" },
+  { "id": 148, "name": "DE: NTV HEVC", "country": "GERMANY" },
+  { "id": 149, "name": "DE: UHD1 UHD", "country": "GERMANY" },
+  { "id": 150, "name": "DE: QVC UHD", "country": "GERMANY" },
+  { "id": 151, "name": "DE: SES UHD DEMO CHANNEL", "country": "GERMANY" },
+  { "id": 152, "name": "DE: DAZN 1 HEVC", "country": "GERMANY" },
+  { "id": 153, "name": "DE: DAZN 2 HEVC", "country": "GERMANY" },
+  { "id": 154, "name": "DE: EUROSPORT 1 HEVC", "country": "GERMANY" },
+  { "id": 155, "name": "DE: EUROSPORT 2 HEVC", "country": "GERMANY" },
+  { "id": 156, "name": "DE: SKY SPORT NEWS HEVC", "country": "GERMANY" },
+  { "id": 157, "name": "DE: SKY SPORT AUSTRIA HEVC", "country": "GERMANY" },
+  { "id": 158, "name": "DE: SKY SPORT F1 HEVC", "country": "GERMANY" },
+  {
+    "id": 159,
+    "name": "DE: SKY SPORT BUNDESLIGA 1 HEVC",
+    "country": "GERMANY"
+  },
+  {
+    "id": 160,
+    "name": "DE: SKY SPORT 1 UHD – BUNDESLIGA 1 UHD – F1 UHD",
+    "country": "GERMANY"
+  },
+  { "id": 161, "name": "DE: —– NEWS / INFORMATION —–", "country": "GERMANY" },
+  { "id": 162, "name": "DE: ARD ALPHA HD", "country": "GERMANY" },
+  { "id": 163, "name": "DE: BILD", "country": "GERMANY" },
+  { "id": 164, "name": "DE: DER AKTIONÄR TV HD", "country": "GERMANY" },
+  { "id": 165, "name": "DE: PHOENIX", "country": "GERMANY" },
+  { "id": 166, "name": "DE: NTV FHD", "country": "GERMANY" },
+  { "id": 167, "name": "DE: TAGESSCHAU24", "country": "GERMANY" },
+  { "id": 168, "name": "DE: DW TV HD", "country": "GERMANY" },
+  { "id": 169, "name": "DE: EURONEWS", "country": "GERMANY" },
+  { "id": 170, "name": "DE: WELT HD", "country": "GERMANY" },
+  { "id": 171, "name": "DE: HEALTH TV HD", "country": "GERMANY" },
+  { "id": 172, "name": "DE: HSE", "country": "GERMANY" },
+  { "id": 173, "name": "DE: HSE EXTRA", "country": "GERMANY" },
+  { "id": 174, "name": "DE: HSE TREND", "country": "GERMANY" },
+  { "id": 175, "name": "DE: —– DOKU —–", "country": "GERMANY" },
+  { "id": 176, "name": "DE: WAIDWERK", "country": "GERMANY" },
+  { "id": 177, "name": "DE: DMAX", "country": "GERMANY" },
+  { "id": 178, "name": "DE: N24 DOKU", "country": "GERMANY" },
+  { "id": 179, "name": "DE: SKY NATURE", "country": "GERMANY" },
+  { "id": 180, "name": "DE: SKY DOCUMENTARIES", "country": "GERMANY" },
+  { "id": 181, "name": "DE: NAT GEO WILD HD", "country": "GERMANY" },
+  { "id": 182, "name": "DE: NAT GEO WILD FHD", "country": "GERMANY" },
+  { "id": 183, "name": "DE: ANIMAL PLANET", "country": "GERMANY" },
+  { "id": 184, "name": "DE: NATIONAL GEOGRAPHIC HD", "country": "GERMANY" },
+  { "id": 185, "name": "DE: NATIONAL GEOGRAPHIC FHD", "country": "GERMANY" },
+  { "id": 186, "name": "DE: DISCOVERY CHANNEL HD", "country": "GERMANY" },
+  { "id": 187, "name": "DE: DISCOVERY CHANNEL FHD", "country": "GERMANY" },
+  { "id": 188, "name": "DE: HISTORY HD", "country": "GERMANY" },
+  { "id": 189, "name": "DE: HISTORY FHD", "country": "GERMANY" },
+  { "id": 190, "name": "DE: ZDF INFO", "country": "GERMANY" },
+  { "id": 191, "name": "DE: ZDF NEO HD", "country": "GERMANY" },
+  { "id": 192, "name": "DE: TLC", "country": "GERMANY" },
+  { "id": 193, "name": "DE: KABEL EINS DOKU FHD", "country": "GERMANY" },
+  { "id": 194, "name": "DE: CURIOSITY CHANNEL", "country": "GERMANY" },
+  { "id": 195, "name": "DE: ECHT JETZT", "country": "GERMANY" },
+  { "id": 196, "name": "DE: BERGBLICK", "country": "GERMANY" },
+  { "id": 197, "name": "DE: SPIEGEL GESCHICHTE", "country": "GERMANY" },
+  { "id": 198, "name": "DE: SPIEGEL TV", "country": "GERMANY" },
+  { "id": 199, "name": "DE: INSIGHT TV", "country": "GERMANY" },
+  { "id": 200, "name": "DE: GEO TV", "country": "GERMANY" },
+  { "id": 201, "name": "DE: RTL LIVING", "country": "GERMANY" },
+  { "id": 202, "name": "DE: HGTV", "country": "GERMANY" },
+  { "id": 203, "name": "DE: BON GUSTO", "country": "GERMANY" },
+  { "id": 204, "name": "DE: WELT DER WUNDER", "country": "GERMANY" },
+  { "id": 205, "name": "DE: HIP TRIPS", "country": "GERMANY" },
+  { "id": 206, "name": "DE: ONE TERRA", "country": "GERMANY" },
+  { "id": 207, "name": "DE: XPLORE", "country": "GERMANY" },
+  { "id": 208, "name": "DE: TRAVELXP", "country": "GERMANY" },
+  { "id": 209, "name": "DE: —– KINDER —–", "country": "GERMANY" },
+  { "id": 210, "name": "DE: SUPER RTL – TOGGO HD", "country": "GERMANY" },
+  { "id": 211, "name": "DE: SUPER RTL – TOGGO FHD", "country": "GERMANY" },
+  { "id": 212, "name": "DE: CARTOONITO", "country": "GERMANY" },
+  { "id": 213, "name": "DE: TOGGO PLUS", "country": "GERMANY" },
+  { "id": 214, "name": "DE: FIX UND FOXI", "country": "GERMANY" },
+  { "id": 215, "name": "DE: KIKA", "country": "GERMANY" },
+  { "id": 216, "name": "DE: NICK JR", "country": "GERMANY" },
+  { "id": 217, "name": "DE: DISNEY CHANNEL", "country": "GERMANY" },
+  { "id": 218, "name": "DE: CARTOON NETWORK", "country": "GERMANY" },
+  { "id": 219, "name": "DE: NICK – COMEDY CENTRAL+1", "country": "GERMANY" },
+  { "id": 220, "name": "DE: NICKTOONS", "country": "GERMANY" },
+  { "id": 221, "name": "DE: BABY TV", "country": "GERMANY" },
+  { "id": 222, "name": "DE: SLTV DRAGON BALL HD", "country": "GERMANY" },
+  { "id": 223, "name": "DE: SLTV ONE PIECE HD", "country": "GERMANY" },
+  { "id": 224, "name": "DE: SLTV MICKYS CLUBHAUS HD", "country": "GERMANY" },
+  { "id": 225, "name": "DE: SLTV SPONGEBOB HD", "country": "GERMANY" },
+  {
+    "id": 226,
+    "name": "DE: SLTV MICKY UND DIE FLINKEN FLITZER HD",
+    "country": "GERMANY"
+  },
+  { "id": 227, "name": "DE: SLTV DIE SIMPSONS HD", "country": "GERMANY" },
+  { "id": 228, "name": "DE: SLTV BLAZE HD", "country": "GERMANY" },
+  { "id": 229, "name": "DE: SLTV THE BOSS BABY HD", "country": "GERMANY" },
+  { "id": 230, "name": "DE: SLTV TIMON UND PUMBAA HD", "country": "GERMANY" },
+  { "id": 231, "name": "DE: SLTV SPY KIDS HD", "country": "GERMANY" },
+  { "id": 232, "name": "DE: SLTV SCHLUMPFE HD", "country": "GERMANY" },
+  { "id": 233, "name": "DE: SLTV GESCHICHTEN HD", "country": "GERMANY" },
+  { "id": 234, "name": "DE: SLTV TOM UND JERRY HD", "country": "GERMANY" },
+  { "id": 235, "name": "DE: SLTV PEPA WUTZ HD", "country": "GERMANY" },
+  { "id": 236, "name": "DE: SLTV PJ MASK HD", "country": "GERMANY" },
+  { "id": 237, "name": "DE: SLTV MASCHA UND DER BAR HD", "country": "GERMANY" },
+  { "id": 238, "name": "DE: SLTV PAW PATROL HD", "country": "GERMANY" },
+  { "id": 239, "name": "DE: SLTV LOONEY TUNES HD", "country": "GERMANY" },
+  { "id": 240, "name": "DE: SLTV GUMBALL HD", "country": "GERMANY" },
+  { "id": 241, "name": "DE: SLTV BARBIE HD", "country": "GERMANY" },
+  { "id": 242, "name": "DE: —– MUSIK —–", "country": "GERMANY" },
+  { "id": 243, "name": "DE: POWER TV", "country": "GERMANY" },
+  { "id": 244, "name": "DE: MTV", "country": "GERMANY" },
+  { "id": 245, "name": "DE: MTV HITS", "country": "GERMANY" },
+  { "id": 246, "name": "DE: MTV LIVE", "country": "GERMANY" },
+  { "id": 247, "name": "DE: MTV MUSIC 24", "country": "GERMANY" },
+  { "id": 248, "name": "DE: MTV DANCE", "country": "GERMANY" },
+  { "id": 249, "name": "DE: MTV 00S", "country": "GERMANY" },
+  { "id": 250, "name": "DE: MTV 80S", "country": "GERMANY" },
+  { "id": 251, "name": "DE: MTV 90S", "country": "GERMANY" },
+  { "id": 252, "name": "DE: MYTVPLUS", "country": "GERMANY" },
+  { "id": 253, "name": "DE: KRONEHIT TV FHD", "country": "GERMANY" },
+  { "id": 254, "name": "DE: DELUXE MUSIC", "country": "GERMANY" },
+  { "id": 255, "name": "DE: DELUXE LOUNGE", "country": "GERMANY" },
+  { "id": 256, "name": "DE: DELUXE ROCK", "country": "GERMANY" },
+  { "id": 257, "name": "DE: DELUXE FLASHBACK", "country": "GERMANY" },
+  { "id": 258, "name": "DE: DELUXE DANCE", "country": "GERMANY" },
+  { "id": 259, "name": "DE: DELUXE RAP", "country": "GERMANY" },
+  { "id": 260, "name": "DE: JUKEBOX TV", "country": "GERMANY" },
+  { "id": 261, "name": "DE: NRJ HITS TV", "country": "GERMANY" },
+  { "id": 262, "name": "DE: MEZZO", "country": "GERMANY" },
+  { "id": 263, "name": "DE: GOLDSTAR TV", "country": "GERMANY" },
+  { "id": 264, "name": "DE: STINGRAY CLASSICA", "country": "GERMANY" },
+  { "id": 265, "name": "DE: VOLKSMUSIK TV", "country": "GERMANY" },
+  { "id": 266, "name": "DE: DEUTSCHES MUSIK FERNSEHEN", "country": "GERMANY" },
+  { "id": 267, "name": "DE: MELODIE TV NEU", "country": "GERMANY" },
+  { "id": 268, "name": "DE: SCHLAGER DELUXE FHD", "country": "GERMANY" },
+  { "id": 269, "name": "DE: STINGRAY ICONCERTS", "country": "GERMANY" },
+  { "id": 270, "name": "DE: STINGRAY DJAZZ", "country": "GERMANY" },
+  { "id": 271, "name": "DE: FOLX MUSIC TELEVISION", "country": "GERMANY" },
+  { "id": 272, "name": "DE: ONE MUSIC TELEVISION", "country": "GERMANY" },
+  { "id": 273, "name": "DE: ZWEI MUSIC TELEVISION", "country": "GERMANY" },
+  { "id": 274, "name": "DE: XITE", "country": "GERMANY" },
+  { "id": 275, "name": "DE: —– KINO / SERIEN —–", "country": "GERMANY" },
+  { "id": 276, "name": "DE: SKY CINEMA PREMIEREN HD", "country": "GERMANY" },
+  { "id": 277, "name": "DE: SKY CINEMA PREMIEREN FHD", "country": "GERMANY" },
+  { "id": 278, "name": "DE: SKY CINEMA PREMIEREN +24", "country": "GERMANY" },
+  { "id": 279, "name": "DE: SKY CINEMA BEST OF HD", "country": "GERMANY" },
+  { "id": 280, "name": "DE: SKY CINEMA BEST OF FHD", "country": "GERMANY" },
+  { "id": 281, "name": "DE: SKY CINEMA ACTION HD", "country": "GERMANY" },
+  { "id": 282, "name": "DE: SKY CINEMA ACTION FHD", "country": "GERMANY" },
+  { "id": 283, "name": "DE: SKY CINEMA FAMILY", "country": "GERMANY" },
+  { "id": 284, "name": "DE: SKY CINEMA SPECIAL HD", "country": "GERMANY" },
+  { "id": 285, "name": "DE: SKY CINEMA SPECIAL FHD", "country": "GERMANY" },
+  { "id": 286, "name": "DE: SKY CINEMA THRILLER HD", "country": "GERMANY" },
+  { "id": 287, "name": "DE: SKY CINEMA THRILLER FHD", "country": "GERMANY" },
+  { "id": 288, "name": "DE: SKY CINEMA FUN HD", "country": "GERMANY" },
+  { "id": 289, "name": "DE: SKY CINEMA CLASSICS", "country": "GERMANY" },
+  { "id": 290, "name": "DE: SKY CINEMA ATLANTIC HD", "country": "GERMANY" },
+  { "id": 291, "name": "DE: SKY CINEMA ATLANTIC FHD", "country": "GERMANY" },
+  { "id": 292, "name": "DE: SKY ONE FHD", "country": "GERMANY" },
+  { "id": 293, "name": "DE: SKY REPLAY FHD", "country": "GERMANY" },
+  { "id": 294, "name": "DE: SKY COMEDY", "country": "GERMANY" },
+  { "id": 295, "name": "DE: SKY CRIME FHD", "country": "GERMANY" },
+  { "id": 296, "name": "DE: SKY KRIMI FHD", "country": "GERMANY" },
+  { "id": 297, "name": "DE: SKY SHOWCASE", "country": "GERMANY" },
+  { "id": 298, "name": "DE: SKY SYFY FHD", "country": "GERMANY" },
+  { "id": 299, "name": "DE: 13TH STREET HD", "country": "GERMANY" },
+  { "id": 300, "name": "DE: 13TH STREET FHD", "country": "GERMANY" },
+  { "id": 301, "name": "DE: CRIME+ INVESTIGATION", "country": "GERMANY" },
+  { "id": 302, "name": "DE: COMEDY CENTRAL", "country": "GERMANY" },
+  { "id": 303, "name": "DE: HEIMATKANAL", "country": "GERMANY" },
+  { "id": 304, "name": "DE: KABEL EINS CLASSICS", "country": "GERMANY" },
+  { "id": 305, "name": "DE: KINOWELT", "country": "GERMANY" },
+  { "id": 306, "name": "DE: NOW! HD", "country": "GERMANY" },
+  { "id": 307, "name": "DE: RTL CRIME FHD", "country": "GERMANY" },
+  { "id": 308, "name": "DE: RTL PASSION", "country": "GERMANY" },
+  { "id": 309, "name": "DE: ROMANCE TV", "country": "GERMANY" },
+  { "id": 310, "name": "DE: SAT 1 EMOTIONS", "country": "GERMANY" },
+  { "id": 311, "name": "DE: SAT 1 GOLD FHD", "country": "GERMANY" },
+  { "id": 312, "name": "DE: SOFY TV", "country": "GERMANY" },
+  { "id": 313, "name": "DE: SONY CHANNEL", "country": "GERMANY" },
+  { "id": 314, "name": "DE: SONY AXN", "country": "GERMANY" },
+  { "id": 315, "name": "DE: SILVERLINE", "country": "GERMANY" },
+  { "id": 316, "name": "DE: UNIVERSAL TV", "country": "GERMANY" },
+  { "id": 317, "name": "DE: WARNER TV COMEDY FHD", "country": "GERMANY" },
+  { "id": 318, "name": "DE: WARNER TV FILM FHD", "country": "GERMANY" },
+  { "id": 319, "name": "DE: WARNER TV SERIE FHD", "country": "GERMANY" },
+  { "id": 320, "name": "DE: WEDO MOVIES FHD", "country": "GERMANY" },
+  { "id": 321, "name": "DE: —– STREAMING PLATTFORM —–", "country": "GERMANY" },
+  { "id": 322, "name": "DE: AMAZON FILME HD", "country": "GERMANY" },
+  { "id": 323, "name": "DE: APPLE TV PLUS FILME HD", "country": "GERMANY" },
+  { "id": 324, "name": "DE: DISNEY PLUS FILME HD", "country": "GERMANY" },
+  { "id": 325, "name": "DE: FILMINGO FILME HD", "country": "GERMANY" },
+  { "id": 326, "name": "DE: JOYN FILME HD", "country": "GERMANY" },
+  { "id": 327, "name": "DE: MAGENTA TV FILME HD", "country": "GERMANY" },
+  { "id": 328, "name": "DE: MAXDOME FILME HD", "country": "GERMANY" },
+  { "id": 329, "name": "DE: MUBI FILME HD", "country": "GERMANY" },
+  { "id": 330, "name": "DE: NETFLIX FILME HD", "country": "GERMANY" },
+  { "id": 331, "name": "DE: NETZKINO FILME HD", "country": "GERMANY" },
+  { "id": 332, "name": "DE: PARAMOUNT PLUS FILME HD", "country": "GERMANY" },
+  { "id": 333, "name": "DE: RTL PLUS FILME HD", "country": "GERMANY" },
+  { "id": 334, "name": "DE: SKY FILME HD", "country": "GERMANY" },
+  { "id": 335, "name": "DE: VIDEOBUSTER FILME HD", "country": "GERMANY" },
+  { "id": 336, "name": "DE: —– SKY SELECT —–", "country": "GERMANY" },
+  {
+    "id": 337,
+    "name": "DE: SKY SELECT PREMIERE VITRINE FHD",
+    "country": "GERMANY"
+  },
+  { "id": 338, "name": "DE: SKY SELECT PREMIERE 1 FHD", "country": "GERMANY" },
+  { "id": 339, "name": "DE: SKY SELECT PREMIERE 2 FHD", "country": "GERMANY" },
+  { "id": 340, "name": "DE: SKY SELECT PREMIERE 3 FHD", "country": "GERMANY" },
+  { "id": 341, "name": "DE: SKY SELECT PREMIERE 4 FHD", "country": "GERMANY" },
+  { "id": 342, "name": "DE: SKY SELECT PREMIERE 5 FHD", "country": "GERMANY" },
+  { "id": 343, "name": "DE: SKY SELECT PREMIERE 6 FHD", "country": "GERMANY" },
+  { "id": 344, "name": "DE: SKY SELECT PREMIERE 7 FHD", "country": "GERMANY" },
+  { "id": 345, "name": "DE: SKY SELECT PREMIERE 8 FHD", "country": "GERMANY" },
+  { "id": 346, "name": "DE: SKY SELECT PREMIERE 9 FHD", "country": "GERMANY" },
+  { "id": 347, "name": "DE: SKY SELECT PREMIERE 10 FHD", "country": "GERMANY" },
+  { "id": 348, "name": "DE: SKY SELECT PREMIERE 11 FHD", "country": "GERMANY" },
+  { "id": 349, "name": "DE: SKY SELECT PREMIERE 12 FHD", "country": "GERMANY" },
+  { "id": 350, "name": "DE: SKY SELECT PREMIERE 13 FHD", "country": "GERMANY" },
+  { "id": 351, "name": "DE: SKY SELECT PREMIERE 14 FHD", "country": "GERMANY" },
+  { "id": 352, "name": "DE: SKY SELECT PREMIERE 15 FHD", "country": "GERMANY" },
+  { "id": 353, "name": "DE: SKY SELECT PREMIERE 16 FHD", "country": "GERMANY" },
+  { "id": 354, "name": "DE: SKY SELECT PREMIERE 17 FHD", "country": "GERMANY" },
+  { "id": 355, "name": "DE: SKY SELECT PREMIERE 18 FHD", "country": "GERMANY" },
+  {
+    "id": 356,
+    "name": "DE: SKY SELECT PREMIERE VITRINE UHD",
+    "country": "GERMANY"
+  },
+  { "id": 357, "name": "DE: SKY SELECT PREMIERE 1 UHD", "country": "GERMANY" },
+  { "id": 358, "name": "DE: SKY SELECT PREMIERE 2 UHD", "country": "GERMANY" },
+  { "id": 359, "name": "DE: SKY SELECT PREMIERE 3 UHD", "country": "GERMANY" },
+  { "id": 360, "name": "DE: SKY SELECT PREMIERE 4 UHD", "country": "GERMANY" },
+  { "id": 361, "name": "DE: SKY SELECT PREMIERE 5 UHD", "country": "GERMANY" },
+  { "id": 362, "name": "DE: SKY SELECT PREMIERE 6 UHD", "country": "GERMANY" },
+  { "id": 363, "name": "DE: SKY SELECT PREMIERE 7 UHD", "country": "GERMANY" },
+  { "id": 364, "name": "DE: SKY SELECT PREMIERE 8 UHD", "country": "GERMANY" },
+  { "id": 365, "name": "DE: SKY SELECT PREMIERE 9 UHD", "country": "GERMANY" },
+  {
+    "id": 366,
+    "name": "DE: SKY SELECT PROGRAMMÜBERSICHT FHD",
+    "country": "GERMANY"
+  },
+  { "id": 367, "name": "DE: SKY SELECT 1 FHD", "country": "GERMANY" },
+  { "id": 368, "name": "DE: SKY SELECT 2 FHD", "country": "GERMANY" },
+  { "id": 369, "name": "DE: SKY SELECT 3 FHD", "country": "GERMANY" },
+  { "id": 370, "name": "DE: SKY SELECT 4 FHD", "country": "GERMANY" },
+  { "id": 371, "name": "DE: SKY SELECT 5 FHD", "country": "GERMANY" },
+  { "id": 372, "name": "DE: SKY SELECT 6 FHD", "country": "GERMANY" },
+  { "id": 373, "name": "DE: SKY SELECT 7 FHD", "country": "GERMANY" },
+  { "id": 374, "name": "DE: SKY SELECT 8 FHD", "country": "GERMANY" },
+  { "id": 375, "name": "DE: SKY SELECT 9 FHD", "country": "GERMANY" },
+  { "id": 376, "name": "DE: SKY SELECT 10 FHD", "country": "GERMANY" },
+  { "id": 377, "name": "DE: —– SKY STORE —–", "country": "GERMANY" },
+  { "id": 378, "name": "DE: SKY STORE 1 HD", "country": "GERMANY" },
+  { "id": 379, "name": "DE: SKY STORE 2 HD", "country": "GERMANY" },
+  { "id": 380, "name": "DE: SKY STORE 3 HD", "country": "GERMANY" },
+  { "id": 381, "name": "DE: SKY STORE 4 HD", "country": "GERMANY" },
+  { "id": 382, "name": "DE: SKY STORE 5 HD", "country": "GERMANY" },
+  { "id": 383, "name": "DE: SKY STORE 6 HD", "country": "GERMANY" },
+  { "id": 384, "name": "DE: SKY STORE 7 HD", "country": "GERMANY" },
+  { "id": 385, "name": "DE: SKY STORE 8 HD", "country": "GERMANY" },
+  { "id": 386, "name": "DE: SKY STORE 9 HD", "country": "GERMANY" },
+  { "id": 387, "name": "DE: SKY STORE 10 HD", "country": "GERMANY" },
+  { "id": 388, "name": "DE: SKY STORE 11 HD", "country": "GERMANY" },
+  { "id": 389, "name": "DE: SKY STORE 12 HD", "country": "GERMANY" },
+  { "id": 390, "name": "DE: SKY STORE 13 HD", "country": "GERMANY" },
+  { "id": 391, "name": "DE: SKY STORE 14 HD", "country": "GERMANY" },
+  { "id": 392, "name": "DE: SKY STORE 15 HD", "country": "GERMANY" },
+  { "id": 393, "name": "DE: —– MAX —–", "country": "GERMANY" },
+  { "id": 394, "name": "DE: MAX SELECT 1 FHD", "country": "GERMANY" },
+  { "id": 395, "name": "DE: MAX SELECT 2 FHD", "country": "GERMANY" },
+  { "id": 396, "name": "DE: MAX SELECT 3 FHD", "country": "GERMANY" },
+  { "id": 397, "name": "DE: MAX SELECT 4 FHD", "country": "GERMANY" },
+  { "id": 398, "name": "DE: MAX SELECT 5 FHD", "country": "GERMANY" },
+  { "id": 399, "name": "DE: MAX SELECT 6 FHD", "country": "GERMANY" },
+  { "id": 400, "name": "DE: MAX SELECT 7 FHD", "country": "GERMANY" },
+  { "id": 401, "name": "DE: MAX KINO 1 FHD", "country": "GERMANY" },
+  { "id": 402, "name": "DE: MAX KINO 2 FHD", "country": "GERMANY" },
+  { "id": 403, "name": "DE: MAX KINO 3 FHD", "country": "GERMANY" },
+  { "id": 404, "name": "DE: MAX KINO 4 FHD", "country": "GERMANY" },
+  { "id": 405, "name": "DE: MAX KINO 5 FHD", "country": "GERMANY" },
+  { "id": 406, "name": "DE: MAX SELECT 1 UHD", "country": "GERMANY" },
+  { "id": 407, "name": "DE: MAX SELECT 2 UHD", "country": "GERMANY" },
+  { "id": 408, "name": "DE: MAX SELECT 3 UHD", "country": "GERMANY" },
+  { "id": 409, "name": "DE: MAX 007 FHD", "country": "GERMANY" },
+  { "id": 410, "name": "DE: MAX BOLLYWOOD FHD", "country": "GERMANY" },
+  { "id": 411, "name": "DE: MAX KINO COLLECTION FHD", "country": "GERMANY" },
+  { "id": 412, "name": "DE: MAX PLUS FHD", "country": "GERMANY" },
+  { "id": 413, "name": "DE: MAX PREMIERE FHD", "country": "GERMANY" },
+  { "id": 414, "name": "DE: MAX STAR WARS FHD", "country": "GERMANY" },
+  { "id": 415, "name": "DE: —– POPCORN SELECT —–", "country": "GERMANY" },
+  { "id": 416, "name": "DE: POPCORN SELECT 1 HD", "country": "GERMANY" },
+  { "id": 417, "name": "DE: POPCORN SELECT 2 HD", "country": "GERMANY" },
+  { "id": 418, "name": "DE: POPCORN SELECT 3 HD", "country": "GERMANY" },
+  { "id": 419, "name": "DE: POPCORN SELECT 4 HD", "country": "GERMANY" },
+  { "id": 420, "name": "DE: POPCORN SELECT 5 HD", "country": "GERMANY" },
+  { "id": 421, "name": "DE: POPCORN SELECT 6 HD", "country": "GERMANY" },
+  { "id": 422, "name": "DE: POPCORN SELECT 7 HD", "country": "GERMANY" },
+  { "id": 423, "name": "DE: POPCORN SELECT 8 HD", "country": "GERMANY" },
+  { "id": 424, "name": "DE: POPCORN SELECT 9 HD", "country": "GERMANY" },
+  { "id": 425, "name": "DE: POPCORN SELECT 10 HD", "country": "GERMANY" },
+  {
+    "id": 426,
+    "name": "DE: POPCORN SELECT BOLLYWOOD 1 HD",
+    "country": "GERMANY"
+  },
+  {
+    "id": 427,
+    "name": "DE: POPCORN SELECT BOLLYWOOD 2 HD",
+    "country": "GERMANY"
+  },
+  {
+    "id": 428,
+    "name": "DE: POPCORN SELECT BOLLYWOOD 3 HD",
+    "country": "GERMANY"
+  },
+  {
+    "id": 429,
+    "name": "DE: POPCORN SELECT WEIHNACHTEN 1 HD",
+    "country": "GERMANY"
+  },
+  {
+    "id": 430,
+    "name": "DE: POPCORN SELECT WEIHNACHTEN 2 HD",
+    "country": "GERMANY"
+  },
+  { "id": 431, "name": "DE: —– KINO —–", "country": "GERMANY" },
+  { "id": 432, "name": "DE: KINO ACTION HD", "country": "GERMANY" },
+  { "id": 433, "name": "DE: KINO FAMILY HD", "country": "GERMANY" },
+  { "id": 434, "name": "DE: KINO HORROR HD", "country": "GERMANY" },
+  { "id": 435, "name": "DE: KINO SCI – FI HD", "country": "GERMANY" },
+  { "id": 436, "name": "DE: KINO ANIMATION HD", "country": "GERMANY" },
+  { "id": 437, "name": "DE: KINO DRAMA HD", "country": "GERMANY" },
+  { "id": 438, "name": "DE: KINO COMEDY HD", "country": "GERMANY" },
+  { "id": 439, "name": "DE: KINO CRIME HD", "country": "GERMANY" },
+  { "id": 440, "name": "DE: —– CINE STAR —–", "country": "GERMANY" },
+  { "id": 441, "name": "DE: CINE STAR HORROR HD", "country": "GERMANY" },
+  { "id": 442, "name": "DE: CINE STAR ACTION HD", "country": "GERMANY" },
+  { "id": 443, "name": "DE: CINE STAR ANIMATION HD", "country": "GERMANY" },
+  { "id": 444, "name": "DE: CINE STAR ABENTEUER HD", "country": "GERMANY" },
+  { "id": 445, "name": "DE: CINE STAR CRIME HD", "country": "GERMANY" },
+  { "id": 446, "name": "DE: CINE STAR DRAMA HD", "country": "GERMANY" },
+  { "id": 447, "name": "DE: CINE STAR FAMILIE HD", "country": "GERMANY" },
+  { "id": 448, "name": "DE: CINE STAR ROMANTISCH HD", "country": "GERMANY" },
+  { "id": 449, "name": "DE: CINE STAR FANTASIE HD", "country": "GERMANY" },
+  { "id": 450, "name": "DE: CINE STAR PREMIRERE HD", "country": "GERMANY" },
+  { "id": 451, "name": "DE: CINE STAR KINO HD", "country": "GERMANY" },
+  { "id": 452, "name": "DE: —– MOVIE TIME —–", "country": "GERMANY" },
+  { "id": 453, "name": "DE: MOVIE TIME ABENTEUER HD", "country": "GERMANY" },
+  { "id": 454, "name": "DE: MOVIE TIME ACTION HD", "country": "GERMANY" },
+  { "id": 455, "name": "DE: MOVIE TIME ANIMATION HD", "country": "GERMANY" },
+  { "id": 456, "name": "DE: MOVIE TIME BIOGRAPHIE HD", "country": "GERMANY" },
+  {
+    "id": 457,
+    "name": "DE: MOVIE TIME DOKUMENTATION HD",
+    "country": "GERMANY"
+  },
+  { "id": 458, "name": "DE: MOVIE TIME DRAMA HD", "country": "GERMANY" },
+  { "id": 459, "name": "DE: MOVIE TIME FAMILIE HD", "country": "GERMANY" },
+  { "id": 460, "name": "DE: MOVIE TIME FANTASY HD", "country": "GERMANY" },
+  { "id": 461, "name": "DE: MOVIE TIME GESCHICHTE HD", "country": "GERMANY" },
+  { "id": 462, "name": "DE: MOVIE TIME HORROR HD", "country": "GERMANY" },
+  { "id": 463, "name": "DE: MOVIE TIME KOMOEDIE HD", "country": "GERMANY" },
+  { "id": 464, "name": "DE: MOVIE TIME KRIEG HD", "country": "GERMANY" },
+  { "id": 465, "name": "DE: MOVIE TIME KRIMI HD", "country": "GERMANY" },
+  { "id": 466, "name": "DE: MOVIE TIME LOVESTORY HD", "country": "GERMANY" },
+  { "id": 467, "name": "DE: MOVIE TIME MUSICAL HD", "country": "GERMANY" },
+  { "id": 468, "name": "DE: MOVIE TIME MYSTERY HD", "country": "GERMANY" },
+  { "id": 469, "name": "DE: MOVIE TIME ROMANTIK HD", "country": "GERMANY" },
+  { "id": 470, "name": "DE: MOVIE TIME SCI – FI HD", "country": "GERMANY" },
+  { "id": 471, "name": "DE: MOVIE TIME SPORT HD", "country": "GERMANY" },
+  { "id": 472, "name": "DE: MOVIE TIME THRILLER HD", "country": "GERMANY" },
+  { "id": 473, "name": "DE: MOVIE TIME WESTERN HD", "country": "GERMANY" },
+  { "id": 474, "name": "DE: MOVIE TIME ZEICHENTRICK HD", "country": "GERMANY" },
+  { "id": 475, "name": "DE: —– SLTV 24 / 7 —–", "country": "GERMANY" },
+  { "id": 476, "name": "DE: SLTV 24 – 7 MARVEL FHD", "country": "GERMANY" },
+  { "id": 477, "name": "DE: SLTV 24 – 7 JAMES BOND FHD", "country": "GERMANY" },
+  {
+    "id": 478,
+    "name": "DE: SLTV 24 – 7 JACKIE CHAN FHD",
+    "country": "GERMANY"
+  },
+  { "id": 479, "name": "DE: SLTV 24 – 7 MATRIX FHD", "country": "GERMANY" },
+  { "id": 480, "name": "DE: SLTV 24 – 7 RAMBO FHD", "country": "GERMANY" },
+  { "id": 481, "name": "DE: SLTV 24 – 7 ROCKY FHD", "country": "GERMANY" },
+  { "id": 482, "name": "DE: SLTV 24 – 7 DER PATE FHD", "country": "GERMANY" },
+  {
+    "id": 483,
+    "name": "DE: SLTV 24 – 7 FAST AND FURIOUS FHD",
+    "country": "GERMANY"
+  },
+  { "id": 484, "name": "DE: SLTV 24 – 7 BAD BOYS FHD", "country": "GERMANY" },
+  { "id": 485, "name": "DE: SLTV 24 – 7 BATMAN FHD", "country": "GERMANY" },
+  {
+    "id": 486,
+    "name": "DE: SLTV 24 – 7 HARRY POTTER FHD",
+    "country": "GERMANY"
+  },
+  {
+    "id": 487,
+    "name": "DE: SLTV 24 – 7 AMERICAN PIE FHD",
+    "country": "GERMANY"
+  },
+  { "id": 488, "name": "DE: SLTV 24 – 7 NIGHTMARE FHD", "country": "GERMANY" },
+  { "id": 489, "name": "DE: SLTV 24 – 7 ALIEN FHD", "country": "GERMANY" },
+  {
+    "id": 490,
+    "name": "DE: SLTV 24 – 7 FLUCH DER KARIBIK FHD",
+    "country": "GERMANY"
+  },
+  {
+    "id": 491,
+    "name": "DE: SLTV 24 – 7 DREI ENGEL FUR CHARLIE FHD",
+    "country": "GERMANY"
+  },
+  {
+    "id": 492,
+    "name": "DE: SLTV 24 – 7 A CHINESE GHOST STORY FHD",
+    "country": "GERMANY"
+  },
+  {
+    "id": 493,
+    "name": "DE: SLTV 24 – 7 96 HOURS TAKEN FHD",
+    "country": "GERMANY"
+  },
+  { "id": 494, "name": "DE: SLTV 24 – 7 CONAN FHD", "country": "GERMANY" },
+  {
+    "id": 495,
+    "name": "DE: SLTV 24 – 7 GHOSTBUSTERS FHD",
+    "country": "GERMANY"
+  },
+  {
+    "id": 496,
+    "name": "DE: SLTV 24 – 7 DER HERR DER RINGE FHD",
+    "country": "GERMANY"
+  },
+  { "id": 497, "name": "DE: SLTV 24 – 7 HOBBIT FHD", "country": "GERMANY" },
+  { "id": 498, "name": "DE: SLTV 24 – 7 HANNIBAL FHD", "country": "GERMANY" },
+  {
+    "id": 499,
+    "name": "DE: SLTV 24 – 7 POLICE ACADEMY FHD",
+    "country": "GERMANY"
+  },
+  {
+    "id": 500,
+    "name": "DE: SLTV 24 – 7 MISSION IMPOSSIBLE FHD",
+    "country": "GERMANY"
+  },
+  { "id": 501, "name": "DE: SLTV 24 – 7 KARL MAY FHD", "country": "GERMANY" },
+  { "id": 502, "name": "DE: SLTV 24 – 7 KARATE KID FHD", "country": "GERMANY" },
+  {
+    "id": 503,
+    "name": "DE: SLTV 24 – 7 JURASSIC PARK FHD",
+    "country": "GERMANY"
+  },
+  { "id": 504, "name": "DE: SLTV 24 – 7 JOHN WICK FHD", "country": "GERMANY" },
+  { "id": 505, "name": "DE: SLTV 24 – 7 HAS FALLEN FHD", "country": "GERMANY" },
+  {
+    "id": 506,
+    "name": "DE: SLTV 24 – 7 RESIDENT EVIL FHD",
+    "country": "GERMANY"
+  },
+  { "id": 507, "name": "DE: SLTV 24 – 7 ROBOCOP FHD", "country": "GERMANY" },
+  { "id": 508, "name": "DE: SLTV 24 – 7 STAR TREK FHD", "country": "GERMANY" },
+  {
+    "id": 509,
+    "name": "DE: SLTV 24 – 7 SHERLOCK HOLMES FHD",
+    "country": "GERMANY"
+  },
+  { "id": 510, "name": "DE: SLTV 24 – 7 SAW FHD", "country": "GERMANY" },
+  {
+    "id": 511,
+    "name": "DE: SLTV 24 – 7 TRANSPORTER FHD",
+    "country": "GERMANY"
+  },
+  { "id": 512, "name": "DE: SLTV 24 – 7 TERMINATOR FHD", "country": "GERMANY" },
+  {
+    "id": 513,
+    "name": "DE: SLTV 24 – 7 SCORPION KING FHD",
+    "country": "GERMANY"
+  },
+  {
+    "id": 514,
+    "name": "DE: SLTV 24 – 7 TRANSFORMERS FHD",
+    "country": "GERMANY"
+  },
+  { "id": 515, "name": "DE: SLTV 24 – 7 TAXI FHD", "country": "GERMANY" },
+  { "id": 516, "name": "DE: SLTV 24 – 7 STAR WARS FHD", "country": "GERMANY" },
+  { "id": 517, "name": "DE: SLTV 24 – 7 SUPERMAN FHD", "country": "GERMANY" },
+  { "id": 518, "name": "DE: SLTV 24 – 7 X-MEN FHD", "country": "GERMANY" },
+  { "id": 519, "name": "DE: —– SPORT —–", "country": "GERMANY" },
+  { "id": 520, "name": "DE: DAZN 1 HD", "country": "GERMANY" },
+  { "id": 521, "name": "DE: DAZN 1 FHD", "country": "GERMANY" },
+  { "id": 522, "name": "DE: DAZN 2 HD", "country": "GERMANY" },
+  { "id": 523, "name": "DE: DAZN 2 FHD", "country": "GERMANY" },
+  { "id": 524, "name": "DE: FC BAYERN TV", "country": "GERMANY" },
+  { "id": 525, "name": "DE: SPORT1", "country": "GERMANY" },
+  { "id": 526, "name": "DE: SPORT1+", "country": "GERMANY" },
+  { "id": 527, "name": "DE: EDGE SPORT", "country": "GERMANY" },
+  { "id": 528, "name": "DE: EXTREME SPORTS HD", "country": "GERMANY" },
+  { "id": 529, "name": "DE: MORE THAN SPORTS TV", "country": "GERMANY" },
+  { "id": 530, "name": "DE: MOTORVISION", "country": "GERMANY" },
+  { "id": 531, "name": "DE: SPORTDIGITAL FUSSBALL FHD", "country": "GERMANY" },
+  { "id": 532, "name": "DE: UFC FIGHT PASS", "country": "GERMANY" },
+  { "id": 533, "name": "DE: TRACE SPORT STARS FHD", "country": "GERMANY" },
+  { "id": 534, "name": "DE: AUTO MOTOR SPORT CHANNEL", "country": "GERMANY" },
+  { "id": 535, "name": "DE: ESPORTS1", "country": "GERMANY" },
+  { "id": 536, "name": "DE: EUROSPORT 1 HD", "country": "GERMANY" },
+  { "id": 537, "name": "DE: EUROSPORT 1 FHD", "country": "GERMANY" },
+  { "id": 538, "name": "DE: EUROSPORT 2 FHD", "country": "GERMANY" },
+  { "id": 539, "name": "DE: WWE CHANNEL", "country": "GERMANY" },
+  { "id": 540, "name": "DE: —– SKY SPORT —–", "country": "GERMANY" },
+  { "id": 541, "name": "DE: SKY SPORT NEWS HD", "country": "GERMANY" },
+  { "id": 542, "name": "DE: SKY SPORT NEWS FHD", "country": "GERMANY" },
+  { "id": 543, "name": "DE: SKY SPORT TOP EVENT HD", "country": "GERMANY" },
+  { "id": 544, "name": "DE: SKY SPORT TOP EVENT FHD", "country": "GERMANY" },
+  { "id": 545, "name": "DE: SKY SPORT F1 HD", "country": "GERMANY" },
+  { "id": 546, "name": "DE: SKY SPORT F1 FHD", "country": "GERMANY" },
+  {
+    "id": 547,
+    "name": "DE: SKY SPORT PREMIER LEAGUE HD",
+    "country": "GERMANY"
+  },
+  {
+    "id": 548,
+    "name": "DE: SKY SPORT PREMIER LEAGUE FHD",
+    "country": "GERMANY"
+  },
+  { "id": 549, "name": "DE: SKY SPORT MIX HD", "country": "GERMANY" },
+  { "id": 550, "name": "DE: SKY SPORT MIX FHD", "country": "GERMANY" },
+  { "id": 551, "name": "DE: SKY SPORT TENNIS HD", "country": "GERMANY" },
+  { "id": 552, "name": "DE: SKY SPORT TENNIS FHD", "country": "GERMANY" },
+  { "id": 553, "name": "DE: SKY SPORT GOLF HD", "country": "GERMANY" },
+  { "id": 554, "name": "DE: SKY SPORT GOLF FHD", "country": "GERMANY" },
+  { "id": 555, "name": "DE: SKY SPORT AUSTRIA HD", "country": "GERMANY" },
+  { "id": 556, "name": "DE: SKY SPORT AUSTRIA FHD", "country": "GERMANY" },
+  {
+    "id": 557,
+    "name": "DE: SKY SPORT 1 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 558,
+    "name": "DE: SKY SPORT 1 FHD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 559,
+    "name": "DE: SKY SPORT 2 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 560,
+    "name": "DE: SKY SPORT 2 FHD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 561,
+    "name": "DE: SKY SPORT 3 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 562,
+    "name": "DE: SKY SPORT 4 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 563,
+    "name": "DE: SKY SPORT 5 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 564,
+    "name": "DE: SKY SPORT 6 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 565,
+    "name": "DE: SKY SPORT 7 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 566,
+    "name": "DE: SKY SPORT 8 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 567,
+    "name": "DE: SKY SPORT 9 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 568,
+    "name": "DE: SKY SPORT 10 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 569,
+    "name": "DE: SKY SPORT 11 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  { "id": 570, "name": "DE: —– BUNDESLIGA —–", "country": "GERMANY" },
+  { "id": 571, "name": "DE: SKY SPORT BUNDESLIGA 1 HD", "country": "GERMANY" },
+  { "id": 572, "name": "DE: SKY SPORT BUNDESLIGA 1 FHD", "country": "GERMANY" },
+  {
+    "id": 573,
+    "name": "DE: SKY SPORT BUNDESLIGA 2 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 574,
+    "name": "DE: SKY SPORT BUNDESLIGA 2 FHD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 575,
+    "name": "DE: SKY SPORT BUNDESLIGA 3 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 576,
+    "name": "DE: SKY SPORT BUNDESLIGA 3 FHD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 577,
+    "name": "DE: SKY SPORT BUNDESLIGA 4 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 578,
+    "name": "DE: SKY SPORT BUNDESLIGA 4 FHD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 579,
+    "name": "DE: SKY SPORT BUNDESLIGA 5 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 580,
+    "name": "DE: SKY SPORT BUNDESLIGA 5 FHD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 581,
+    "name": "DE: SKY SPORT BUNDESLIGA 6 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 582,
+    "name": "DE: SKY SPORT BUNDESLIGA 6 FHD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 583,
+    "name": "DE: SKY SPORT BUNDESLIGA 7 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 584,
+    "name": "DE: SKY SPORT BUNDESLIGA 7 FHD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 585,
+    "name": "DE: SKY SPORT BUNDESLIGA 8 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 586,
+    "name": "DE: SKY SPORT BUNDESLIGA 9 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 587,
+    "name": "DE: SKY SPORT BUNDESLIGA 10 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  { "id": 588, "name": "DE: —– TELEKOM —–", "country": "GERMANY" },
+  { "id": 589, "name": "DE: MAGENTA SPORT HD", "country": "GERMANY" },
+  {
+    "id": 590,
+    "name": "DE: MAGENTA SPORT PROGRAMMÜBERSICHT HD",
+    "country": "GERMANY"
+  },
+  { "id": 591, "name": "DE: MAGENTA SPORT 1 HD", "country": "GERMANY" },
+  { "id": 592, "name": "DE: MAGENTA SPORT 2 HD", "country": "GERMANY" },
+  { "id": 593, "name": "DE: MAGENTA SPORT 3 HD", "country": "GERMANY" },
+  { "id": 594, "name": "DE: MAGENTA SPORT 4 HD", "country": "GERMANY" },
+  { "id": 595, "name": "DE: MAGENTA SPORT 5 HD", "country": "GERMANY" },
+  { "id": 596, "name": "DE: MAGENTA SPORT 6 HD", "country": "GERMANY" },
+  { "id": 597, "name": "DE: MAGENTA SPORT 7 HD", "country": "GERMANY" },
+  { "id": 598, "name": "DE: MAGENTA SPORT 8 HD", "country": "GERMANY" },
+  { "id": 599, "name": "DE: MAGENTA SPORT 9 HD", "country": "GERMANY" },
+  { "id": 600, "name": "DE: MAGENTA SPORT 10 HD", "country": "GERMANY" },
+  { "id": 601, "name": "DE: MAGENTA SPORT 11 HD", "country": "GERMANY" },
+  { "id": 602, "name": "DE: MAGENTA SPORT 12 HD", "country": "GERMANY" },
+  { "id": 603, "name": "DE: MAGENTA SPORT 13 HD", "country": "GERMANY" },
+  { "id": 604, "name": "DE: MAGENTA SPORT 14 HD", "country": "GERMANY" },
+  { "id": 605, "name": "DE: MAGENTA SPORT 15 HD", "country": "GERMANY" },
+  { "id": 606, "name": "DE: MAGENTA SPORT 16 HD", "country": "GERMANY" },
+  { "id": 607, "name": "DE: MAGENTA SPORT 17 HD", "country": "GERMANY" },
+  { "id": 608, "name": "DE: MAGENTA SPORT 18 HD", "country": "GERMANY" },
+  { "id": 609, "name": "DE: —– VIP SPORT —–", "country": "GERMANY" },
+  {
+    "id": 610,
+    "name": "DE: VIP AMAZON PRIME VIDEO SPORT HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  { "id": 611, "name": "DE: VIP DAZN 1 HD", "country": "GERMANY" },
+  { "id": 612, "name": "DE: VIP DAZN 1 FHD", "country": "GERMANY" },
+  { "id": 613, "name": "DE: VIP DAZN 2 HD", "country": "GERMANY" },
+  { "id": 614, "name": "DE: VIP DAZN 2 FHD", "country": "GERMANY" },
+  { "id": 615, "name": "DE: VIP DAZN FAST FHD", "country": "GERMANY" },
+  { "id": 616, "name": "DE: VIP DAZN LFC TV HD", "country": "GERMANY" },
+  { "id": 617, "name": "DE: VIP DAZN MLB NETWORK HD", "country": "GERMANY" },
+  { "id": 618, "name": "DE: VIP DAZN NBA TV HD", "country": "GERMANY" },
+  { "id": 619, "name": "DE: VIP DAZN NFL NETWORK HD", "country": "GERMANY" },
+  { "id": 620, "name": "DE: VIP DAZN RED BULL TV HD", "country": "GERMANY" },
+  { "id": 621, "name": "DE: VIP DAZN RISE FHD", "country": "GERMANY" },
+  { "id": 622, "name": "DE: VIP DAZN UNBEATEN HD", "country": "GERMANY" },
+  {
+    "id": 623,
+    "name": "DE: VIP DAZN 1 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 624,
+    "name": "DE: VIP DAZN 2 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 625,
+    "name": "DE: VIP DAZN 3 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 626,
+    "name": "DE: VIP DAZN 4 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 627,
+    "name": "DE: VIP DAZN 5 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 628,
+    "name": "DE: VIP DAZN 6 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 629,
+    "name": "DE: VIP DAZN 7 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 630,
+    "name": "DE: VIP DAZN 8 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 631,
+    "name": "DE: VIP DAZN 9 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 632,
+    "name": "DE: VIP DAZN 10 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 633,
+    "name": "DE: VIP DAZN 11 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 634,
+    "name": "DE: VIP DAZN 12 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 635,
+    "name": "DE: VIP DAZN 13 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 636,
+    "name": "DE: VIP DAZN 14 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 637,
+    "name": "DE: VIP DAZN 15 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  { "id": 638, "name": "DE: VIP SKY SPORT F1 HD", "country": "GERMANY" },
+  {
+    "id": 639,
+    "name": "DE: VIP SKY SPORT 1 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 640,
+    "name": "DE: VIP SKY SPORT 2 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 641,
+    "name": "DE: VIP SKY SPORT 3 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 642,
+    "name": "DE: VIP SKY SPORT 4 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 643,
+    "name": "DE: VIP SKY SPORT 5 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 644,
+    "name": "DE: VIP SKY SPORT 6 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 645,
+    "name": "DE: VIP SKY SPORT 7 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 646,
+    "name": "DE: VIP SKY SPORT 8 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 647,
+    "name": "DE: VIP SKY SPORT 9 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 648,
+    "name": "DE: VIP SKY SPORT 10 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 649,
+    "name": "DE: VIP SKY SPORT 11 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 650,
+    "name": "DE: VIP SKY SPORT BUNDESLIGA 1 HD",
+    "country": "GERMANY"
+  },
+  {
+    "id": 651,
+    "name": "DE: VIP SKY SPORT BUNDESLIGA 2 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 652,
+    "name": "DE: VIP SKY SPORT BUNDESLIGA 3 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 653,
+    "name": "DE: VIP SKY SPORT BUNDESLIGA 4 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 654,
+    "name": "DE: VIP SKY SPORT BUNDESLIGA 5 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 655,
+    "name": "DE: VIP SKY SPORT BUNDESLIGA 6 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 656,
+    "name": "DE: VIP SKY SPORT BUNDESLIGA 7 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 657,
+    "name": "DE: VIP SKY SPORT BUNDESLIGA 8 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 658,
+    "name": "DE: VIP SKY SPORT BUNDESLIGA 9 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 659,
+    "name": "DE: VIP SKY SPORT BUNDESLIGA 10 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  { "id": 660, "name": "DE: VIP SKY SPORT AUSTRIA 1 HD", "country": "GERMANY" },
+  {
+    "id": 661,
+    "name": "DE: VIP SKY SPORT AUSTRIA 2 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 662,
+    "name": "DE: VIP SKY SPORT AUSTRIA 3 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 663,
+    "name": "DE: VIP SKY SPORT AUSTRIA 4 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 664,
+    "name": "DE: VIP SKY SPORT AUSTRIA 5 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 665,
+    "name": "DE: VIP SKY SPORT AUSTRIA 6 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 666,
+    "name": "DE: VIP SKY SPORT AUSTRIA 7 HD (Only Live Event)",
+    "country": "GERMANY"
+  },
+  { "id": 667, "name": "DE: VIP MAGENTA SPORT HD", "country": "GERMANY" },
+  {
+    "id": 668,
+    "name": "DE: VIP MAGENTA SPORT PROGRAMMÜBERSICHT HD",
+    "country": "GERMANY"
+  },
+  { "id": 669, "name": "DE: VIP MAGENTA SPORT 1 HD", "country": "GERMANY" },
+  { "id": 670, "name": "DE: VIP MAGENTA SPORT 2 HD", "country": "GERMANY" },
+  { "id": 671, "name": "DE: VIP MAGENTA SPORT 3 HD", "country": "GERMANY" },
+  { "id": 672, "name": "DE: VIP MAGENTA SPORT 4 HD", "country": "GERMANY" },
+  { "id": 673, "name": "DE: VIP MAGENTA SPORT 5 HD", "country": "GERMANY" },
+  { "id": 674, "name": "DE: VIP MAGENTA SPORT 6 HD", "country": "GERMANY" },
+  { "id": 675, "name": "DE: VIP MAGENTA SPORT 7 HD", "country": "GERMANY" },
+  { "id": 676, "name": "DE: VIP MAGENTA SPORT 8 HD", "country": "GERMANY" },
+  { "id": 677, "name": "DE: VIP MAGENTA SPORT 9 HD", "country": "GERMANY" },
+  { "id": 678, "name": "DE: VIP MAGENTA SPORT 10 HD", "country": "GERMANY" },
+  { "id": 679, "name": "DE: VIP MAGENTA SPORT 11 HD", "country": "GERMANY" },
+  { "id": 680, "name": "DE: VIP MAGENTA SPORT 12 HD", "country": "GERMANY" },
+  { "id": 681, "name": "DE: VIP MAGENTA SPORT 13 HD", "country": "GERMANY" },
+  { "id": 682, "name": "DE: VIP MAGENTA SPORT 14 HD", "country": "GERMANY" },
+  { "id": 683, "name": "DE: VIP MAGENTA SPORT 15 HD", "country": "GERMANY" },
+  { "id": 684, "name": "DE: VIP MAGENTA SPORT 16 HD", "country": "GERMANY" },
+  { "id": 685, "name": "DE: VIP MAGENTA SPORT 17 HD", "country": "GERMANY" },
+  { "id": 686, "name": "DE: VIP MAGENTA SPORT 18 HD", "country": "GERMANY" },
+  {
+    "id": 687,
+    "name": "DE: VIP RTL+ SPORT EVENT 1 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 688,
+    "name": "DE: VIP RTL+ SPORT EVENT 2 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 689,
+    "name": "DE: VIP RTL+ SPORT EVENT 3 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 690,
+    "name": "DE: VIP RTL+ SPORT EVENT 4 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 691,
+    "name": "DE: VIP RTL+ SPORT EVENT 5 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 692,
+    "name": "DE: VIP RTL+ SPORT EVENT 6 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 693,
+    "name": "DE: VIP EUROSPORT 360 HD 1 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 694,
+    "name": "DE: VIP EUROSPORT 360 HD 2 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 695,
+    "name": "DE: VIP EUROSPORT 360 HD 3 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 696,
+    "name": "DE: VIP EUROSPORT 360 HD 4 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 697,
+    "name": "DE: VIP EUROSPORT 360 HD 5 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 698,
+    "name": "DE: VIP EUROSPORT 360 HD 6 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 699,
+    "name": "DE: VIP EUROSPORT 360 HD 7 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 700,
+    "name": "DE: VIP EUROSPORT 360 HD 8 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 701,
+    "name": "DE: VIP EUROSPORT 360 HD 9 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 702,
+    "name": "DE: VIP EUROSPORT 360 HD 10 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 703,
+    "name": "DE: VIP EUROSPORT 360 HD 11 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 704,
+    "name": "DE: VIP EUROSPORT 360 HD 12 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 705,
+    "name": "DE: VIP EUROSPORT 360 HD 13 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 706,
+    "name": "DE: VIP EUROSPORT 360 HD 14 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 707,
+    "name": "DE: VIP EUROSPORT 360 HD 15 (Only Live Event)",
+    "country": "GERMANY"
+  },
+  {
+    "id": 708,
+    "name": "DE: VIP EUROSPORT 360 HD 16 (Only Live Event)",
+    "country": "GERMANY"
+  }
+]

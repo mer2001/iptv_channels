@@ -1,0 +1,510 @@
+[
+  { "id": 1, "name": "NL: NPO 1 FHD", "country": "NETHERLANDS" },
+  { "id": 2, "name": "NL: NPO 1 FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 3, "name": "NL: NPO 2 FHD", "country": "NETHERLANDS" },
+  { "id": 4, "name": "NL: NPO 2 FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 5, "name": "NL: NPO 3 FHD", "country": "NETHERLANDS" },
+  { "id": 6, "name": "NL: NPO 3 FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 7, "name": "NL: RTL 4 FHD", "country": "NETHERLANDS" },
+  { "id": 8, "name": "NL: RTL 4 FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 9, "name": "NL: RTL 5 FHD", "country": "NETHERLANDS" },
+  { "id": 10, "name": "NL: RTL 5 FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 11, "name": "NL: RTL 7 FHD", "country": "NETHERLANDS" },
+  { "id": 12, "name": "NL: RTL 7 FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 13, "name": "NL: RTL 8 FHD", "country": "NETHERLANDS" },
+  { "id": 14, "name": "NL: RTL 8 FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 15, "name": "NL: SBS 6 FHD", "country": "NETHERLANDS" },
+  { "id": 16, "name": "NL: SBS 6 FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 17, "name": "NL: NET 5 FHD", "country": "NETHERLANDS" },
+  { "id": 18, "name": "NL: VERONICA FHD", "country": "NETHERLANDS" },
+  { "id": 19, "name": "NL: SBS 9 HD", "country": "NETHERLANDS" },
+  { "id": 20, "name": "NL: SBS 9 FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 21, "name": "NL: NPO 1 HD", "country": "NETHERLANDS" },
+  { "id": 22, "name": "NL: NPO 2 HD", "country": "NETHERLANDS" },
+  { "id": 23, "name": "NL: NPO 3 HD", "country": "NETHERLANDS" },
+  { "id": 24, "name": "NL: RTL 4 HD", "country": "NETHERLANDS" },
+  { "id": 25, "name": "NL: RTL 5 HD", "country": "NETHERLANDS" },
+  { "id": 26, "name": "NL: RTL 7 HD", "country": "NETHERLANDS" },
+  { "id": 27, "name": "NL: RTL 8 HD", "country": "NETHERLANDS" },
+  { "id": 28, "name": "NL: NET 5 HD", "country": "NETHERLANDS" },
+  { "id": 29, "name": "NL: SBS 6 HD", "country": "NETHERLANDS" },
+  { "id": 30, "name": "NL: SBS 9", "country": "NETHERLANDS" },
+  { "id": 31, "name": "NL: VERONICA HD", "country": "NETHERLANDS" },
+  { "id": 32, "name": "NL: TLC HD", "country": "NETHERLANDS" },
+  { "id": 33, "name": "NL: SPIKE HD", "country": "NETHERLANDS" },
+  {
+    "id": 34,
+    "name": "NL: COMEDY CENTRAL NEDERLAND",
+    "country": "NETHERLANDS"
+  },
+  { "id": 35, "name": "NL: COMEDY CENTRAL EXTRA", "country": "NETHERLANDS" },
+  { "id": 36, "name": "NL: FOX CHANNEL HD", "country": "NETHERLANDS" },
+  { "id": 37, "name": "NL: NPO NIEUWS", "country": "NETHERLANDS" },
+  { "id": 38, "name": "NL: NPO 1 EXTRA", "country": "NETHERLANDS" },
+  { "id": 39, "name": "NL: NPO 2 EXTRA", "country": "NETHERLANDS" },
+  { "id": 40, "name": "NL: NPO POLITIEK", "country": "NETHERLANDS" },
+  { "id": 41, "name": "NL: BVN HD", "country": "NETHERLANDS" },
+  { "id": 42, "name": "NL: FAMILY 7", "country": "NETHERLANDS" },
+  { "id": 43, "name": "NL: AT 5", "country": "NETHERLANDS" },
+  { "id": 44, "name": "NL: TV OOST", "country": "NETHERLANDS" },
+  { "id": 45, "name": "NL: RTL CRIME", "country": "NETHERLANDS" },
+  { "id": 46, "name": "NL: RTL Z HD", "country": "NETHERLANDS" },
+  { "id": 47, "name": "NL: RTV 7", "country": "NETHERLANDS" },
+  { "id": 48, "name": "NL: RTV DRENTHE", "country": "NETHERLANDS" },
+  { "id": 49, "name": "NL: L1 LIMBURG", "country": "NETHERLANDS" },
+  { "id": 50, "name": "NL: RTL LOUNGE", "country": "NETHERLANDS" },
+  { "id": 51, "name": "NL: ONS", "country": "NETHERLANDS" },
+  { "id": 52, "name": "NL: DTV OSS", "country": "NETHERLANDS" },
+  {
+    "id": 53,
+    "name": "NL: OMROEP BRABANT TELEVISIE",
+    "country": "NETHERLANDS"
+  },
+  { "id": 54, "name": "NL: OMROEP FLEVOLAND", "country": "NETHERLANDS" },
+  { "id": 55, "name": "NL: OMROEP ZEELAND", "country": "NETHERLANDS" },
+  { "id": 56, "name": "NL: OMROP FRYSLAN TV", "country": "NETHERLANDS" },
+  { "id": 57, "name": "NL: TVL LIMBURG", "country": "NETHERLANDS" },
+  { "id": 58, "name": "NL: STINGRAY LITE TV", "country": "NETHERLANDS" },
+  { "id": 59, "name": "NL: TV GELDERLAND", "country": "NETHERLANDS" },
+  { "id": 60, "name": "NL: TV NOORD", "country": "NETHERLANDS" },
+  { "id": 61, "name": "NL: RTV DORDRECHT", "country": "NETHERLANDS" },
+  { "id": 62, "name": "NL: TV RIJNMOND", "country": "NETHERLANDS" },
+  { "id": 63, "name": "NL: TV WEST", "country": "NETHERLANDS" },
+  { "id": 64, "name": "NL: TV DRENTHE", "country": "NETHERLANDS" },
+  { "id": 65, "name": "NL: —– FILMS —–", "country": "NETHERLANDS" },
+  { "id": 66, "name": "NL: FILM 1 PREMIER FHD", "country": "NETHERLANDS" },
+  { "id": 67, "name": "NL: FILM 1 ACTION HD", "country": "NETHERLANDS" },
+  { "id": 68, "name": "NL: FILM 1 FAMILY HD", "country": "NETHERLANDS" },
+  { "id": 69, "name": "NL: FILM 1 DRAMA 1 HD", "country": "NETHERLANDS" },
+  { "id": 70, "name": "NL: FILM DRAMA HD", "country": "NETHERLANDS" },
+  { "id": 71, "name": "NL: VIP HBO 1 HD", "country": "NETHERLANDS" },
+  { "id": 72, "name": "NL: —– KINDEREN —–", "country": "NETHERLANDS" },
+  { "id": 73, "name": "NL: VERONICA/DISNEY XD FHD", "country": "NETHERLANDS" },
+  { "id": 74, "name": "NL: KETNET HD", "country": "NETHERLANDS" },
+  { "id": 75, "name": "NL: KLIPKAR TV", "country": "NETHERLANDS" },
+  {
+    "id": 76,
+    "name": "NL: DISNEY CHANNEL NEDERLAND",
+    "country": "NETHERLANDS"
+  },
+  { "id": 77, "name": "NL: NICK TOONS", "country": "NETHERLANDS" },
+  { "id": 78, "name": "NL: BOOMERANG", "country": "NETHERLANDS" },
+  { "id": 79, "name": "NL: NICKELODEON", "country": "NETHERLANDS" },
+  { "id": 80, "name": "NL: CARTOON NETWORK", "country": "NETHERLANDS" },
+  { "id": 81, "name": "NL: DISNEY XD", "country": "NETHERLANDS" },
+  { "id": 82, "name": "NL: NICK HITS", "country": "NETHERLANDS" },
+  { "id": 83, "name": "NL: NICK JR", "country": "NETHERLANDS" },
+  { "id": 84, "name": "NL: BABY TV", "country": "NETHERLANDS" },
+  { "id": 85, "name": "NL: RTL TELEKIDS", "country": "NETHERLANDS" },
+  { "id": 86, "name": "NL: —– CULTUUR —–", "country": "NETHERLANDS" },
+  { "id": 87, "name": "NL: NGC FHD", "country": "NETHERLANDS" },
+  { "id": 88, "name": "NL: NATIONAL GEO HD", "country": "NETHERLANDS" },
+  { "id": 89, "name": "NL: NAT GEO WILD", "country": "NETHERLANDS" },
+  {
+    "id": 90,
+    "name": "NL: DISCOVERY CHANNEL NEDERLAND",
+    "country": "NETHERLANDS"
+  },
+  { "id": 91, "name": "NL: DISCOVERY SCIENCE", "country": "NETHERLANDS" },
+  { "id": 92, "name": "NL: DISCOVERY ID", "country": "NETHERLANDS" },
+  {
+    "id": 93,
+    "name": "NL: CRIME INVESTIGATION NETWORK",
+    "country": "NETHERLANDS"
+  },
+  { "id": 94, "name": "NL: HISTORY HD", "country": "NETHERLANDS" },
+  { "id": 95, "name": "NL: BBC FIRST HD", "country": "NETHERLANDS" },
+  { "id": 96, "name": "NL: E! ENTERTAINMENT", "country": "NETHERLANDS" },
+  { "id": 97, "name": "NL: ID", "country": "NETHERLANDS" },
+  { "id": 98, "name": "NL: ANIMAL PLANET HD", "country": "NETHERLANDS" },
+  { "id": 99, "name": "NL: LOVE NATURA HD", "country": "NETHERLANDS" },
+  { "id": 100, "name": "NL: 24 KITCHEN", "country": "NETHERLANDS" },
+  { "id": 101, "name": "NL: LOVE NATURE FHD HEVC", "country": "NETHERLANDS" },
+  {
+    "id": 102,
+    "name": "NL: DISCOVERY SCIENCE FHD HEVC",
+    "country": "NETHERLANDS"
+  },
+  { "id": 103, "name": "NL: DISCOVERY FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 104, "name": "NL: NAT GEO FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 105, "name": "NL: NAT GEO WILD FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 106, "name": "NL: HISTORY FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 107, "name": "NL: ID FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 108, "name": "NL: —– MUZIEK / NIEUW —–", "country": "NETHERLANDS" },
+  { "id": 109, "name": "NL: DANCE TRIPPIN", "country": "NETHERLANDS" },
+  { "id": 110, "name": "NL: VH1 CLASSIC", "country": "NETHERLANDS" },
+  { "id": 111, "name": "NL: SLAM!", "country": "NETHERLANDS" },
+  { "id": 112, "name": "NL: XITE", "country": "NETHERLANDS" },
+  { "id": 113, "name": "NL: ICONCERTS", "country": "NETHERLANDS" },
+  { "id": 114, "name": "NL: MEZZO", "country": "NETHERLANDS" },
+  { "id": 115, "name": "NL: MTV", "country": "NETHERLANDS" },
+  { "id": 116, "name": "NL: MTV MUSIC 24", "country": "NETHERLANDS" },
+  { "id": 117, "name": "NL: TV 538", "country": "NETHERLANDS" },
+  { "id": 118, "name": "NL: 192 TV", "country": "NETHERLANDS" },
+  { "id": 119, "name": "NL: TV ORANJE", "country": "NETHERLANDS" },
+  { "id": 120, "name": "NL: 100% NL TV", "country": "NETHERLANDS" },
+  { "id": 121, "name": "NL: DJAZZ.TV", "country": "NETHERLANDS" },
+  { "id": 122, "name": "NL: —– SPORT —–", "country": "NETHERLANDS" },
+  { "id": 123, "name": "NL: ESPN 1 FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 124, "name": "NL: ESPN 2 FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 125, "name": "NL: ESPN 3 FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 126, "name": "NL: ESPN 4 FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 127, "name": "NL: ZIGGO SPORT VOETBAL HD", "country": "NETHERLANDS" },
+  {
+    "id": 128,
+    "name": "NL: ZIGGO SPORT VOETBAL FHD HEVC",
+    "country": "NETHERLANDS"
+  },
+  { "id": 129, "name": "NL: ZIGGO SPORT SELECT HD", "country": "NETHERLANDS" },
+  {
+    "id": 130,
+    "name": "NL: ZIGGO SPORT SELECT FHD HEVC",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 131,
+    "name": "NL: ZIGGO SPORT EXTRA FHD HEVC",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 132,
+    "name": "NL: ZIGGO SPORT RACING FHD HEVC",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 133,
+    "name": "NL: ZIGGO SPORT GOLF FHD HEVC",
+    "country": "NETHERLANDS"
+  },
+  { "id": 134, "name": "NL: EUROSPORT 1 HD", "country": "NETHERLANDS" },
+  { "id": 135, "name": "NL: EUROSPORT 1 FHD HEVC", "country": "NETHERLANDS" },
+  { "id": 136, "name": "NL: EUROSPORT 2 HD", "country": "NETHERLANDS" },
+  { "id": 137, "name": "NL: VIP NPO 1 HD", "country": "NETHERLANDS" },
+  { "id": 138, "name": "NL: VIP NPO 2 HD", "country": "NETHERLANDS" },
+  { "id": 139, "name": "NL: VIP NPO 3 HD", "country": "NETHERLANDS" },
+  { "id": 140, "name": "NL: VIP RTL 4 HD", "country": "NETHERLANDS" },
+  { "id": 141, "name": "NL: VIP RTL 5 HD", "country": "NETHERLANDS" },
+  { "id": 142, "name": "NL: VIP SBS 6 HD", "country": "NETHERLANDS" },
+  { "id": 143, "name": "NL: VIP NET 5 HD", "country": "NETHERLANDS" },
+  { "id": 144, "name": "NL: VIP RTL 7 HD", "country": "NETHERLANDS" },
+  { "id": 145, "name": "NL: VIP RTL 8 HD", "country": "NETHERLANDS" },
+  { "id": 146, "name": "NL: VIP SBS 9 HD", "country": "NETHERLANDS" },
+  { "id": 147, "name": "NL: VIP RTL Z HD", "country": "NETHERLANDS" },
+  {
+    "id": 148,
+    "name": "NL: VIP Veronica/DinseyXD HD",
+    "country": "NETHERLANDS"
+  },
+  { "id": 149, "name": "NL: VIP TLC HD", "country": "NETHERLANDS" },
+  { "id": 150, "name": "NL: VIP SPIKE HD", "country": "NETHERLANDS" },
+  { "id": 151, "name": "NL: VIP FOX CHANNEL HD", "country": "NETHERLANDS" },
+  { "id": 152, "name": "NL: VIP BVN", "country": "NETHERLANDS" },
+  { "id": 153, "name": "NL: VIP NPO 1 EXTRA HD", "country": "NETHERLANDS" },
+  { "id": 154, "name": "NL: VIP NPO 2 EXTRA", "country": "NETHERLANDS" },
+  { "id": 155, "name": "NL: VIP NPO NIEUWS", "country": "NETHERLANDS" },
+  { "id": 156, "name": "NL: VIP NPO POLITIEK", "country": "NETHERLANDS" },
+  { "id": 157, "name": "NL: VIP COMEDY CENTRAL HD", "country": "NETHERLANDS" },
+  {
+    "id": 158,
+    "name": "NL: VIP COMEDY CENTRAL EXTRA",
+    "country": "NETHERLANDS"
+  },
+  { "id": 159, "name": "NL: VIP NICK JUNIOR", "country": "NETHERLANDS" },
+  { "id": 160, "name": "NL: VIP NICK TOONS", "country": "NETHERLANDS" },
+  { "id": 161, "name": "NL: VIP DISNEY CHANNEL HD", "country": "NETHERLANDS" },
+  { "id": 162, "name": "NL: VIP BABY TV", "country": "NETHERLANDS" },
+  { "id": 163, "name": "NL: VIP BOOMERANG", "country": "NETHERLANDS" },
+  {
+    "id": 164,
+    "name": "NL: VIP CARTOON NETWORK FHD",
+    "country": "NETHERLANDS"
+  },
+  { "id": 165, "name": "NL: VIP RTL TELEKIDS HD", "country": "NETHERLANDS" },
+  { "id": 166, "name": "NL: VIP PEBBLE TV", "country": "NETHERLANDS" },
+  { "id": 167, "name": "NL: VIP FILM1 PREMIERE HD", "country": "NETHERLANDS" },
+  { "id": 168, "name": "NL: VIP FILM1 ACTION HD", "country": "NETHERLANDS" },
+  { "id": 169, "name": "NL: VIP FILM1 FAMILY HD", "country": "NETHERLANDS" },
+  { "id": 170, "name": "NL: VIP FILM1 DRAMA HD", "country": "NETHERLANDS" },
+  {
+    "id": 171,
+    "name": "NL: VIP E! ENTERTAINMENT HD",
+    "country": "NETHERLANDS"
+  },
+  { "id": 172, "name": "NL: VIP BBC ENTERTAINMENT", "country": "NETHERLANDS" },
+  { "id": 173, "name": "NL: VIP BBC FIRST HD", "country": "NETHERLANDS" },
+  { "id": 174, "name": "NL: VIP RTL CRIME HD", "country": "NETHERLANDS" },
+  { "id": 175, "name": "NL: VIP RTL LOUNGE HD", "country": "NETHERLANDS" },
+  { "id": 176, "name": "NL: VIP MTV HD", "country": "NETHERLANDS" },
+  {
+    "id": 177,
+    "name": "NL: VIP NATIONAL GEOGRAPHIC FHD",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 178,
+    "name": "NL: VIP NATIONAL GEOGRAPHIC WILD FHD",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 179,
+    "name": "NL: VIP DISCOVERY CHANNEL FHD",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 180,
+    "name": "NL: VIP Discovery Science HD",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 181,
+    "name": "NL: VIP Investigation Dicovery HD",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 182,
+    "name": "NL: VIP Crime – Investigation HD",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 183,
+    "name": "NL: VIP History Channel FHD",
+    "country": "NETHERLANDS"
+  },
+  { "id": 184, "name": "NL: VIP Animal Planet FHD", "country": "NETHERLANDS" },
+  { "id": 185, "name": "NL: VIP Love Nature HD", "country": "NETHERLANDS" },
+  { "id": 186, "name": "NL: VIP 24Kitchen HD", "country": "NETHERLANDS" },
+  { "id": 187, "name": "NL: VIP FAMILY7", "country": "NETHERLANDS" },
+  { "id": 188, "name": "NL: VIP ESPN 1 HD", "country": "NETHERLANDS" },
+  { "id": 189, "name": "NL: VIP ESPN 2 HD", "country": "NETHERLANDS" },
+  { "id": 190, "name": "NL: VIP ESPN 3 HD", "country": "NETHERLANDS" },
+  { "id": 191, "name": "NL: VIP ESPN 4 HD", "country": "NETHERLANDS" },
+  {
+    "id": 192,
+    "name": "NL: VIP ZIGGO SPORT SELECT HD",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 193,
+    "name": "NL: VIP ZIGGO SPORT VOETBAL HD",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 194,
+    "name": "NL: VIP ZIGGO SPORT RACING HD",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 195,
+    "name": "NL: VIP ZIGGO SPORT GOLF HD",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 196,
+    "name": "NL: VIP ZIGGO SPORT DOCU HD",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 197,
+    "name": "NL: VIP ZIGGO SPORT TENNIS HD",
+    "country": "NETHERLANDS"
+  },
+  { "id": 198, "name": "NL: VIP Eurosport 1 HD", "country": "NETHERLANDS" },
+  { "id": 199, "name": "NL: VIP Eurosport 2 HD", "country": "NETHERLANDS" },
+  { "id": 200, "name": "NL: VIP Extreme Sports", "country": "NETHERLANDS" },
+  { "id": 201, "name": "NL: VIP Horse – Country HD", "country": "NETHERLANDS" },
+  { "id": 202, "name": "NL: VIP NPO 1 HEVC", "country": "NETHERLANDS" },
+  { "id": 203, "name": "NL: VIP NPO 2 HEVC", "country": "NETHERLANDS" },
+  { "id": 204, "name": "NL: VIP NPO 3 HEVC", "country": "NETHERLANDS" },
+  { "id": 205, "name": "NL: VIP RTL 4 HEVC", "country": "NETHERLANDS" },
+  { "id": 206, "name": "NL: VIP RTL 5 HEVC", "country": "NETHERLANDS" },
+  { "id": 207, "name": "NL: VIP SBS 6 HEVC", "country": "NETHERLANDS" },
+  { "id": 208, "name": "NL: VIP RTL 7 HEVC", "country": "NETHERLANDS" },
+  { "id": 209, "name": "NL: VIP RTL Z HEVC", "country": "NETHERLANDS" },
+  { "id": 210, "name": "NL: VIP RTL 8 HEVC", "country": "NETHERLANDS" },
+  { "id": 211, "name": "NL: VIP SBS 9 HEVC", "country": "NETHERLANDS" },
+  { "id": 212, "name": "NL: VIP NET 5 HEVC", "country": "NETHERLANDS" },
+  { "id": 213, "name": "NL: VIP TLC HEVC", "country": "NETHERLANDS" },
+  {
+    "id": 214,
+    "name": "NL: VIP Veronica/DisneyXD HEVC",
+    "country": "NETHERLANDS"
+  },
+  { "id": 215, "name": "NL: VIP FOX CHANNEL HEVC", "country": "NETHERLANDS" },
+  {
+    "id": 216,
+    "name": "NL: VIP DISNEY CHANNEL HEVC",
+    "country": "NETHERLANDS"
+  },
+  { "id": 217, "name": "NL: VIP RTL TELEKIDS HEVC", "country": "NETHERLANDS" },
+  { "id": 218, "name": "NL: VIP BBC FIRST HEVC", "country": "NETHERLANDS" },
+  { "id": 219, "name": "NL: VIP RTL CRIME HEVC", "country": "NETHERLANDS" },
+  { "id": 220, "name": "NL: VIP RTL LOUNGE HEVC", "country": "NETHERLANDS" },
+  { "id": 221, "name": "NL: VIP MTV HEVC", "country": "NETHERLANDS" },
+  { "id": 222, "name": "NL: VIP ESPN 1 HEVC", "country": "NETHERLANDS" },
+  { "id": 223, "name": "NL: VIP ESPN 2 HEVC", "country": "NETHERLANDS" },
+  { "id": 224, "name": "NL: VIP ESPN 3 HEVC", "country": "NETHERLANDS" },
+  { "id": 225, "name": "NL: VIP ESPN 4 HEVC", "country": "NETHERLANDS" },
+  {
+    "id": 226,
+    "name": "NL: VIP ZIGGO SPORT SELECT HEVC",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 227,
+    "name": "NL: VIP ZIGGO SPORT VOETBAL HEVC",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 228,
+    "name": "NL: VIP ZIGGO SPORT RACING HEVC",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 229,
+    "name": "NL: VIP ZIGGO SPORT GOLF HEVC",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 230,
+    "name": "NL: VIP ZIGGO SPORT DOCU HEVC",
+    "country": "NETHERLANDS"
+  },
+  { "id": 231, "name": "NL: VIP Eurosport 1 HEVC", "country": "NETHERLANDS" },
+  { "id": 232, "name": "NL: VIP Eurosport 2 HEVC", "country": "NETHERLANDS" },
+  {
+    "id": 233,
+    "name": "NL: VIP VIAPLAY FORMULE 1 HD (LIVEEVENT)",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 234,
+    "name": "NL: VIP VIAPLAY EVENT 1 HD (LIVEEVENT)",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 235,
+    "name": "NL: VIP VIAPLAY EVENT 2 HD (LIVEEVENT)",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 236,
+    "name": "NL: VIP VIAPLAY EVENT 3 HD (LIVEEVENT)",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 237,
+    "name": "NL: VIP VIAPLAY EVENT 4 HD (DE) TAAL",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 238,
+    "name": "NL: VIP VIAPLAY EVENT 5 HD (LIVEEVENT)",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 239,
+    "name": "NL: VIP VIAPLAY EVENT 6 HD (LIVE EVENT)",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 240,
+    "name": "NL: VIP VIAPLAY EVENT 7 HD (LIVE EVENT)",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 241,
+    "name": "NL: VIP VIAPLAY EVENT 10 HD (LIVE EVENT)",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 242,
+    "name": "NL: VIP VIAPLAY EVENT 11 HD (LIVE EVENT)",
+    "country": "NETHERLANDS"
+  },
+  { "id": 243, "name": "NL: VIP VIAPLAY PDC HD", "country": "NETHERLANDS" },
+  { "id": 244, "name": "NL: VIP VIAPLAY XTRA HD", "country": "NETHERLANDS" },
+  { "id": 245, "name": "NL: VIP VIAPLAY XTRA 1", "country": "NETHERLANDS" },
+  { "id": 246, "name": "NL: VIP VIAPLAY XTRA 2", "country": "NETHERLANDS" },
+  { "id": 247, "name": "NL: VIP VIAPLAY XTRA 3", "country": "NETHERLANDS" },
+  { "id": 248, "name": "NL: VIP VIAPLAY F1 HD", "country": "NETHERLANDS" },
+  {
+    "id": 249,
+    "name": "NL: VIP VIAPLAY 1 XTRA HD F1",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 250,
+    "name": "NL: VIP VIAPLAY 2 XTRA FHD F1",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 251,
+    "name": "NL: VIP VIAPLAY 2 XTRA HD F1",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 252,
+    "name": "NL: VIP VIAPLAY PPV 1 FHD F1",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 253,
+    "name": "NL: VIP VIAPLAY PPV 1 HD F1",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 254,
+    "name": "NL: VIP VIAPLAY Premier League Top Event FHD",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 255,
+    "name": "NL: VIP VIAPLAY Premier League Top Event HD",
+    "country": "NETHERLANDS"
+  },
+  { "id": 256, "name": "NL: VIP VIAPLAY PPV 2 FHD", "country": "NETHERLANDS" },
+  { "id": 257, "name": "NL: VIP VIAPLAY PPV 3 HD", "country": "NETHERLANDS" },
+  { "id": 258, "name": "NL: VIP VIAPLAY PPV 4 HD", "country": "NETHERLANDS" },
+  { "id": 259, "name": "NL: VIP VIAPLAY PPV 5 HD", "country": "NETHERLANDS" },
+  { "id": 260, "name": "NL: VIP VIAPLAY PPV 6 HD", "country": "NETHERLANDS" },
+  { "id": 261, "name": "NL: VIP VIAPLAY PPV 7 HD", "country": "NETHERLANDS" },
+  { "id": 262, "name": "NL: VIP VIAPLAY PPV 8 HD", "country": "NETHERLANDS" },
+  { "id": 263, "name": "NL: VIP VIAPLAY PPV 9 HD", "country": "NETHERLANDS" },
+  { "id": 264, "name": "NL: VIP VIAPLAY PPV 10 HD", "country": "NETHERLANDS" },
+  {
+    "id": 265,
+    "name": "NL: VIP History Channel HEVC",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 266,
+    "name": "NL: VIP National Geographic HEVC",
+    "country": "NETHERLANDS"
+  },
+  { "id": 267, "name": "NL: VIP DISCOVERY ID FHD", "country": "NETHERLANDS" },
+  { "id": 268, "name": "NL: VIP Discovery Sc HEVC", "country": "NETHERLANDS" },
+  {
+    "id": 269,
+    "name": "NL: VIP Investigation Dicovery HEVC",
+    "country": "NETHERLANDS"
+  },
+  { "id": 270, "name": "NL: VIP UFC Fight Pass HD", "country": "NETHERLANDS" },
+  { "id": 271, "name": "NL: VIP MTV 24 Music", "country": "NETHERLANDS" },
+  { "id": 272, "name": "NL: VIP NICK MUSIC", "country": "NETHERLANDS" },
+  { "id": 273, "name": "NL: VIP Xite fHD", "country": "NETHERLANDS" },
+  { "id": 274, "name": "NL: VIP TV538", "country": "NETHERLANDS" },
+  { "id": 275, "name": "NL: VIP 192 TV", "country": "NETHERLANDS" },
+  { "id": 276, "name": "NL: VIP Mezzo", "country": "NETHERLANDS" },
+  { "id": 277, "name": "NL: VIP Stingray Lite TV", "country": "NETHERLANDS" },
+  { "id": 278, "name": "NL: VIP AT5", "country": "NETHERLANDS" },
+  { "id": 279, "name": "NL: VIP L1 Limburg", "country": "NETHERLANDS" },
+  { "id": 280, "name": "NL: VIP Omroep Tilburg", "country": "NETHERLANDS" },
+  { "id": 281, "name": "NL: VIP RTV Utrecht", "country": "NETHERLANDS" },
+  { "id": 282, "name": "NL: VIP RTV Drenthe", "country": "NETHERLANDS" },
+  { "id": 283, "name": "NL: VIP RTV Noord", "country": "NETHERLANDS" },
+  { "id": 284, "name": "NL: VIP TV Rijnmond", "country": "NETHERLANDS" },
+  { "id": 285, "name": "NL: VIP Den Haag TV", "country": "NETHERLANDS" },
+  { "id": 286, "name": "NL: VIP Go TV", "country": "NETHERLANDS" },
+  { "id": 287, "name": "NL: VIP RTV Maastricht", "country": "NETHERLANDS" },
+  { "id": 288, "name": "NL: VIP Meer TV", "country": "NETHERLANDS" }
+]

@@ -1,0 +1,59 @@
+[
+  { "id": 1, "name": "[COLOMBIA] [HD] CARACOL HD", "country": "COLOMBIA" },
+  { "id": 2, "name": "[COLOMBIA] [HD] CARACOL HD2 HD", "country": "COLOMBIA" },
+  {
+    "id": 3,
+    "name": "[COLOMBIA] [HD] CARACOL INTERNACIONAL HD",
+    "country": "COLOMBIA"
+  },
+  { "id": 4, "name": "[COLOMBIA] [HD] RCN HD", "country": "COLOMBIA" },
+  { "id": 5, "name": "[COLOMBIA] [HD] RCN HD2 HD", "country": "COLOMBIA" },
+  {
+    "id": 6,
+    "name": "[COLOMBIA] [HD] SENAL COLOMBIA HD",
+    "country": "COLOMBIA"
+  },
+  { "id": 7, "name": "[COLOMBIA] [HD] TELEPACIFICO HD", "country": "COLOMBIA" },
+  {
+    "id": 8,
+    "name": "[COLOMBIA] [HD] TELE MEDELLIN HD",
+    "country": "COLOMBIA"
+  },
+  { "id": 9, "name": "[COLOMBIA] [HD] TRECE HD", "country": "COLOMBIA" },
+  {
+    "id": 10,
+    "name": "[COLOMBIA] [HD] CABLENOTICIAS HD",
+    "country": "COLOMBIA"
+  },
+  {
+    "id": 11,
+    "name": "[COLOMBIA] [HD] CANAL CAPITAL HD",
+    "country": "COLOMBIA"
+  },
+  { "id": 12, "name": "[COLOMBIA] [HD] CANAL TRO HD", "country": "COLOMBIA" },
+  { "id": 13, "name": "[COLOMBIA] [HD] CANAL UNO HD", "country": "COLOMBIA" },
+  { "id": 14, "name": "[COLOMBIA] [HD] CARACOL HD", "country": "COLOMBIA" },
+  { "id": 15, "name": "[COLOMBIA] [HD] EL TIEMPO HD", "country": "COLOMBIA" },
+  { "id": 16, "name": "[COLOMBIA] [HD] NTN24 HD", "country": "COLOMBIA" },
+  { "id": 17, "name": "[COLOMBIA] [HD] CANAL TRECE HD", "country": "COLOMBIA" },
+  { "id": 18, "name": "[COLOMBIA] [HD] TVGRO HD", "country": "COLOMBIA" },
+  { "id": 19, "name": "[COLOMBIA] [HD] WINSPORTS HD", "country": "COLOMBIA" },
+  {
+    "id": 20,
+    "name": "[COLOMBIA] [HD] WINSPORTS PLUS HD",
+    "country": "COLOMBIA"
+  },
+  {
+    "id": 21,
+    "name": "[COLOMBIA] [HD] DIRECTV SPORTS 1 HD",
+    "country": "COLOMBIA"
+  },
+  {
+    "id": 22,
+    "name": "[COLOMBIA] [HD] DIRECTV SPORTS 2 HD",
+    "country": "COLOMBIA"
+  },
+  { "id": 23, "name": "[COLOMBIA] [SD] RCN NOVELAS", "country": "COLOMBIA" },
+  { "id": 24, "name": "[COLOMBIA] [SD] CITY TV", "country": "COLOMBIA" },
+  { "id": 25, "name": "[COLOMBIA] [SD] TELEVID", "country": "COLOMBIA" }
+]
